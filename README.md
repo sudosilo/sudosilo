@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 11 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release.
 
 Games
 
