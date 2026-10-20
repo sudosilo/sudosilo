@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 35 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 46 repos are documented so far.
 
 Games
 
@@ -9,9 +9,12 @@ Atlas of Tiles. Tile rotating puzzle where closed loops score, with regional til
 Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic mode. Live at beesim-green.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
+Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
+Territory Control. Early first version of a map based territory war game.  
+Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
 Tower Builder. Beam building tower game that tests your design against wind and earthquakes. Live at tower-builder-five.vercel.app.  
 Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.
 
@@ -19,6 +22,7 @@ Music and Visualizers
 
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
+Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
 Suno Forge. Song builder that drafts lyrics and style tags for AI music generators. Live at suno-forge-kappa.vercel.app.  
@@ -45,30 +49,40 @@ Threat Atlas. Interactive globe of security threats with layers, filters, and co
 Tools
 
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
+Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
+Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
+Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
+Signal Snapshot. Panel that shows trading signals checked by the signal snapshot backend. Live at virality-snapshot.vercel.app.  
 Threat Dash. Dashboard page for the threat poller, with a watchlist you can add to and remove from.
+
+Pajamastan
+
+Pajamastan Warrants. Public record page that lists the active warrants docket and checks for new ones. Live at pajamastan-warrants.vercel.app.
 
 Backends and Infrastructure
 
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
+Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
+Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
 Skwiggle Mint Pin. Proxy service that pins Skwiggle art to IPFS so it can be minted.  
 Threat Poller. Background poller that watches GitHub repos by category, saves alerts to Postgres, and serves them over a read API.
 
 Recent changes
 
-2026-09-22. Phasewell Scope. The scope compares a song file with the microphone in several views.  
-2026-09-17. Engine Companion. The companion shows engine status and lets the owner pause, resume, or flatten from one page.  
-2026-09-16. QSR Tracker Backend. Added engine routes for a snapshot, a ledger, a heartbeat, and a two way command queue.  
-2026-09-16. Mohave Browser. First build of the browser.  
-2026-09-14. Arcade Backend. Version 2 now locks every on chain write so two scores can never reuse the same number.  
-2026-09-11. Atlas of Tiles. Atlas of Tiles lets players rotate tiles to close loops, with several regional tile styles.  
-2026-09-11. Threat Atlas. Threat Atlas shows a rotating globe with layered threat data and country intel.  
-2026-09-11. Dronesim. Dronesim is an operator console for drone shows with a timeline, formations, and optional audio.  
-2026-09-11. Boba Break-Even. Boba Break-Even calculates cups needed to cover costs.  
-2026-09-10. Bee Sim. Bee Sim shipped as a single static page.
+2026-10-04. Hackercons Roulette API. Created the clip catalog backend.  
+2026-10-04. Hackercons Roulette. Created the clip player, version two, with stumble and guess modes.  
+2026-10-04. Pancake Orange. Created the pancake game.  
+2026-10-03. Topo Wars. Added a commander aura and a howitzer fortress.  
+2026-10-02. Paycheck Hub. First deploy of the paycheck hub.  
+2026-10-02. Pajamastan Warrants. First deploy of the warrants page and the backend that keeps its docket current.  
+2026-09-29. Note Note Note. Added lines, a mind map, undo for deleted notes, and storage protection.  
+2026-09-29. Territory Control. Created the first version of the territory control war game.  
+2026-09-28. Signal Snapshot Backend. Created the signal snapshot backend.  
+2026-09-28. Signal Snapshot. Created the signal snapshot panel with live, graded, and report views.
 
 Updated automatically by the scribe.
