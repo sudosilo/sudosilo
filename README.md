@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 58 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 69 repos are documented so far.
 
 Games
 
@@ -12,7 +12,9 @@ EDMIA. Falling block color match game where every move adds to the music. Live a
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
+ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
+Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
@@ -37,6 +39,10 @@ Termbeat. Audio reactive terminal that reacts to music or the microphone, with t
 Restaurant Tech
 
 Boba Break-Even. Break-even calculator and seven day shop game for a bubble tea shop. Live at boba-breakeven-x8k4.vercel.app.  
+Check-In Kiosk. Guest check-in kiosk with walk-ins, reservations, and a staff area. Live at checkin-kiosk-bice.vercel.app.  
+QSR Equivalents Engine. Shows which menu items one restaurant could build from another restaurant's ingredients. Live at equivalence-engine.vercel.app.  
+QSR Receipt Sim. Receipt designer for quick service restaurants with a live preview. Live at qsr-receipt-sim.vercel.app.  
+RTSS. Restaurant technology site survey form with cloud sync and CSV export. Live at rtss-sigma.vercel.app.  
 Shitty Ass Trading App. Stock tracker for restaurant and food industry tickers with news, recalls, filings, and sentiment. Live at shitty-ass-trading.vercel.app.
 
 Field and Equipment
@@ -50,16 +56,21 @@ Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.
 
 Maps and Research
 
+Data Center OSINT. Map of data centers, power plants, heavy industry, and drought with live satellite imagery. Live at datacenter-osint.vercel.app.  
 Gridmark. GPS location marker and heatmap that sorts places into work and personal.  
+Mind Globe. 3D globe where your notes become land. Live at ming-globe.vercel.app.  
 Mission Operator. Location aware scanner console for nearby aircraft, radios, mesh nodes, and towers. Live at mission-operator.vercel.app.  
 Threat Atlas. Interactive globe of security threats with layers, filters, and country intel. Live at threat-atlas-two.vercel.app.
 
 Tools
 
+Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
+Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
 Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sync. Live at daily-outline.vercel.app.  
 Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
+KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
@@ -86,15 +97,15 @@ Threat Poller. Background poller that watches GitHub repos by category, saves al
 
 Recent changes
 
-2026-10-08. 67 Press Processor. Created the box dieline and press roll tool.  
-2026-10-08. SecureOps. Published the first live version of SecureOps.  
-2026-10-08. Field Study. Created Field Study with career and flashcard modes and a comic skin.  
-2026-10-08. Rogue Analog Transducer. Added phone mode and device detection.  
-2026-10-08. Repo Find. Updated the comic skin.  
-2026-10-08. NANOVERSE. Published version 18 as a single standalone page.  
-2026-10-08. Mary Jane-Man. Redeployed version 5 of the game over a site that had been overwritten.  
-2026-10-08. Daily Outline. Added a sign in wall and locked the calendar feed behind it.  
-2026-10-06. Topdown Pixeltowns. Deployed the pixel town game as a single page.  
-2026-10-06. CARCHIVE. Added a deck builder and new cards.
+2026-10-10. RTSS. The live page now syncs to the cloud.  
+2026-10-10. Mind Globe. Mountains now rise from note length.  
+2026-10-10. ORDERSIM. Version 2 has a light theme, callsigns, local best scores, and an online leaderboard.  
+2026-10-10. Check-In Kiosk. Version 2 of the kiosk saves data to a Redis backend and adds a flow heat map.  
+2026-10-10. KVS Roulette. Version 2 plays full episodes and adds a random mode, seasons, and backup sources.  
+2026-10-09. Rogue Rail. A rail shooter set to drum and bass with pause, mute, hull repair, music preload, a countdown, and a best score.  
+2026-10-09. Cat Command Chat. Added chess in the chat with shared live boards and watchers.  
+2026-10-09. Data Center OSINT. Version 4 opens on the whole country.  
+2026-10-09. QSR Equivalents Engine. Version 2 of the equivalents engine.  
+2026-10-08. Androids Deploy Builder. The builder writes ready to paste deploy command blocks for Vercel and Railway.
 
 Updated automatically by the scribe.
