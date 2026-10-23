@@ -1,13 +1,16 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 69 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 80 repos are documented so far.
 
 Games
 
 Ascend. Endless vertical platformer with moving platforms, powerups, and touch controls for phones. Live at ascend-pearl-ten.vercel.app.  
 Atlas of Tiles. Tile rotating puzzle where closed loops score, with regional tile styles. Live at tile-spinner.vercel.app.  
 Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic mode. Live at beesim-green.vercel.app.  
+BIRDIXEL. Bird territory game with free paint and stained glass modes. Live at birdix.vercel.app.  
 CARCHIVE. Browser card duel game with a deck builder and duel records. Live at carchive-nine.vercel.app.  
+Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
+Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
@@ -19,6 +22,7 @@ Skwiggle. Never ending line drawing game with mint support, later replaced by a 
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
 Territory Control. Early first version of a map based territory war game.  
+The Aliens Win. Arcade shooter where you fly a UFO against waves. Live at aliens-win.vercel.app.  
 Topdown Pixeltown. Top down pixel town game that renders to a canvas. Live at topdown-pixeltown.vercel.app.  
 Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown Pixeltown.  
 Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
@@ -31,17 +35,21 @@ Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and im
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
 Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
+PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmill.vercel.app.  
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
 Suno Forge. Song builder that drafts lyrics and style tags for AI music generators. Live at suno-forge-kappa.vercel.app.  
-Termbeat. Audio reactive terminal that reacts to music or the microphone, with themes and small games. Live at termbeat.vercel.app.
+Termbeat. Audio reactive terminal that reacts to music or the microphone, with themes and small games. Live at termbeat.vercel.app.  
+Tinewood Keys. Browser electric piano with sustain, octaves, and knobs. Live at tinewood-keys.vercel.app.
 
 Restaurant Tech
 
 Boba Break-Even. Break-even calculator and seven day shop game for a bubble tea shop. Live at boba-breakeven-x8k4.vercel.app.  
 Check-In Kiosk. Guest check-in kiosk with walk-ins, reservations, and a staff area. Live at checkin-kiosk-bice.vercel.app.  
+Coffee Autosim. Live blueprint simulator of a coffee shop floor with baristas. Live at coffee-autosim.vercel.app.  
 QSR Equivalents Engine. Shows which menu items one restaurant could build from another restaurant's ingredients. Live at equivalence-engine.vercel.app.  
 QSR Receipt Sim. Receipt designer for quick service restaurants with a live preview. Live at qsr-receipt-sim.vercel.app.  
+Restaurant Design and Setup Survey. Survey tool for designing and scoring a restaurant concept. Live at ghost-kitchen-builder.vercel.app.  
 RTSS. Restaurant technology site survey form with cloud sync and CSV export. Live at rtss-sigma.vercel.app.  
 Shitty Ass Trading App. Stock tracker for restaurant and food industry tickers with news, recalls, filings, and sentiment. Live at shitty-ass-trading.vercel.app.
 
@@ -57,6 +65,7 @@ Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.
 Maps and Research
 
 Data Center OSINT. Map of data centers, power plants, heavy industry, and drought with live satellite imagery. Live at datacenter-osint.vercel.app.  
+ebutuoy. Discovery app that plays short samples of rarely seen videos. Live at ebutuoy.vercel.app.  
 Gridmark. GPS location marker and heatmap that sorts places into work and personal.  
 Mind Globe. 3D globe where your notes become land. Live at ming-globe.vercel.app.  
 Mission Operator. Location aware scanner console for nearby aircraft, radios, mesh nodes, and towers. Live at mission-operator.vercel.app.  
@@ -70,6 +79,7 @@ Contracts. Draft a contract, sign it with a finger or mouse, and record its fing
 Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sync. Live at daily-outline.vercel.app.  
 Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
+Fold pattern generator. Origami fold pattern generator for printing.  
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
@@ -88,6 +98,7 @@ Backends and Infrastructure
 
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
+ebutuoy backend. Backend service for the ebutuoy video discovery app.  
 Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
 Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
@@ -97,15 +108,15 @@ Threat Poller. Background poller that watches GitHub repos by category, saves al
 
 Recent changes
 
-2026-10-10. RTSS. The live page now syncs to the cloud.  
-2026-10-10. Mind Globe. Mountains now rise from note length.  
-2026-10-10. ORDERSIM. Version 2 has a light theme, callsigns, local best scores, and an online leaderboard.  
-2026-10-10. Check-In Kiosk. Version 2 of the kiosk saves data to a Redis backend and adds a flow heat map.  
-2026-10-10. KVS Roulette. Version 2 plays full episodes and adds a random mode, seasons, and backup sources.  
-2026-10-09. Rogue Rail. A rail shooter set to drum and bass with pause, mute, hull repair, music preload, a countdown, and a best score.  
-2026-10-09. Cat Command Chat. Added chess in the chat with shared live boards and watchers.  
-2026-10-09. Data Center OSINT. Version 4 opens on the whole country.  
-2026-10-09. QSR Equivalents Engine. Version 2 of the equivalents engine.  
-2026-10-08. Androids Deploy Builder. The builder writes ready to paste deploy command blocks for Vercel and Railway.
+2026-10-11. The Aliens Win. Created the app as the first version of the game.  
+2026-10-11. Chicken Farm. Created the app as version 3 of the chicken farm simulator.  
+2026-10-11. Fold pattern generator. Created the app as the Page Wide origami print app.  
+2026-10-11. BIRDIXEL. Added stained glass mode, automatic birds, and photo glass.  
+2026-10-11. Coffee Autosim. Created the app as version 3, a live blueprint sim of a coffee shop floor.  
+2026-10-11. PIXELMILL. Created the app as version 1.0.  
+2026-10-11. Cockpit Racer. Created the app as version 2.  
+2026-10-11. ebutuoy backend. Ran a bug hunt.  
+2026-10-11. ebutuoy. Moved the app to GitHub after a bug hunt pass.  
+2026-10-11. Tinewood Keys. Created the app.
 
 Updated automatically by the scribe.
