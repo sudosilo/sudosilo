@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 80 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 92 repos are documented so far.
 
 Games
 
@@ -12,11 +12,13 @@ CARCHIVE. Browser card duel game with a deck builder and duel records. Live at c
 Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
 Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
+Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
 ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
+Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the screen.  
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
@@ -31,12 +33,15 @@ Tower Builder 2. Second version of the tower builder game, with an info button e
 
 Music and Visualizers
 
+Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
+Ether Wand. A phone instrument where tilting and shaking the phone plays a tone. Live at ether-wand.vercel.app.  
 Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
 PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmill.vercel.app.  
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
+Scope Listener. An oscilloscope that compares a song to the phone mic and shows the offset. Live at scope-listener.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
 Suno Forge. Song builder that drafts lyrics and style tags for AI music generators. Live at suno-forge-kappa.vercel.app.  
 Termbeat. Audio reactive terminal that reacts to music or the microphone, with themes and small games. Live at termbeat.vercel.app.  
@@ -60,7 +65,10 @@ Aerophin Twin. Drawing set and interactive 3D part models for two coffee machine
 Drone Training Page. Landing page for a Part 107 drone pilot training program in northern Arizona. Live at dronecamp.vercel.app.  
 Field Study. Study app with flashcards, quizzes, and drills in career and flashcard modes. Live at field-study-pi.vercel.app.  
 GroundCore. Desert planting planner with row spacing, plant lookup, and a map sandbox for laying out rows. Live at groundcore-nine.vercel.app.  
-Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.
+Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.  
+Tank Pump Drip Demo. A demo of a tank, pump, and drip irrigation cycle.  
+Torque Converter. Converts torque between newton meters, foot pounds, and inch pounds. Live at torque-converter.vercel.app.  
+Tractor Toolkit. A toolkit for tractor work with a blueprint, hourly rate, quote, and game. Live at tractor-tool.vercel.app.
 
 Maps and Research
 
@@ -69,6 +77,7 @@ ebutuoy. Discovery app that plays short samples of rarely seen videos. Live at e
 Gridmark. GPS location marker and heatmap that sorts places into work and personal.  
 Mind Globe. 3D globe where your notes become land. Live at ming-globe.vercel.app.  
 Mission Operator. Location aware scanner console for nearby aircraft, radios, mesh nodes, and towers. Live at mission-operator.vercel.app.  
+Parcelsun. A solar heat model for a parcel locker with a four module default.  
 Threat Atlas. Interactive globe of security threats with layers, filters, and country intel. Live at threat-atlas-two.vercel.app.
 
 Tools
@@ -92,6 +101,8 @@ Vercel Stumbler. Random vercel.app name finder that opens names and keeps the li
 
 Pajamastan
 
+Pajamastan. The official site of the micronation of Pajamastan. Live at pajamastan.vercel.app.  
+Pajamastan Invoices. Seller and buyer invoices with a Pajamastan letterhead tab.  
 Pajamastan Warrants. Public record page that lists the active warrants docket and checks for new ones. Live at pajamastan-warrants.vercel.app.
 
 Backends and Infrastructure
@@ -100,6 +111,7 @@ Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
 Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
+Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
 Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
@@ -108,15 +120,15 @@ Threat Poller. Background poller that watches GitHub repos by category, saves al
 
 Recent changes
 
-2026-10-11. The Aliens Win. Created the app as the first version of the game.  
-2026-10-11. Chicken Farm. Created the app as version 3 of the chicken farm simulator.  
-2026-10-11. Fold pattern generator. Created the app as the Page Wide origami print app.  
-2026-10-11. BIRDIXEL. Added stained glass mode, automatic birds, and photo glass.  
-2026-10-11. Coffee Autosim. Created the app as version 3, a live blueprint sim of a coffee shop floor.  
-2026-10-11. PIXELMILL. Created the app as version 1.0.  
-2026-10-11. Cockpit Racer. Created the app as version 2.  
-2026-10-11. ebutuoy backend. Ran a bug hunt.  
-2026-10-11. ebutuoy. Moved the app to GitHub after a bug hunt pass.  
-2026-10-11. Tinewood Keys. Created the app.
+2026-10-14. Scope Listener. Added autopilot, which identifies the song, loads the reference, locates the spot, and tracks and logs the sample level hands free.  
+2026-10-13. Gladhand Dockyard. Added an open city map with signals, telephone poles with wires that come down, outages, and traffic.  
+2026-10-13. Parcelsun. First release, built over four versions in one day.  
+2026-10-13. Percentage Pop-up Typing Game. A pop-up typing game with a dark theme and a live usage meter.  
+2026-10-12. Tractor Toolkit. Tractor toolkit revision B with a footer, a creator seal, and generic app content.  
+2026-10-12. Pajamastan. Released version three.  
+2026-10-12. Parkingten. Fixed the sessions API, added an operator key, switched to a light theme, and resized plate photos before upload.  
+2026-10-12. Tank Pump Drip Demo. Archived the irrigation demo page that shows the tank, pump, and drip cycle.  
+2026-10-12. Torque Converter. A torque converter with a bolt spec lookup.  
+2026-10-12. Pajamastan Invoices. Seller and buyer invoices with a Pajamastan letterhead tab.
 
 Updated automatically by the scribe.
