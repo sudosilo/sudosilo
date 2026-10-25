@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 92 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 104 repos are documented so far.
 
 Games
 
@@ -13,6 +13,7 @@ Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-fa
 Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
+Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
@@ -29,21 +30,29 @@ Topdown Pixeltown. Top down pixel town game that renders to a canvas. Live at to
 Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown Pixeltown.  
 Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
 Tower Builder. Beam building tower game that tests your design against wind and earthquakes. Live at tower-builder-five.vercel.app.  
-Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.
+Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.  
+Who Is The Final Victor. A canvas game with a pink accent look. Live at final-vector-six.vercel.app.
 
 Music and Visualizers
 
+Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-eight-xi.vercel.app.  
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
 Ether Wand. A phone instrument where tilting and shaking the phone plays a tone. Live at ether-wand.vercel.app.  
 Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
+Hoofer Sync. A dance floor where every phone in the band room gets a dancer.  
+Looper. A pad looper for recording and layering loops that joins a shared band. Live at looper-sooty.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
 PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmill.vercel.app.  
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
 Scope Listener. An oscilloscope that compares a song to the phone mic and shows the offset. Live at scope-listener.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
+Spectral Engine. Twelve sound visualizers that can follow a shared band. Live at spectral-engine.vercel.app.  
+Stompbox Lab. A guitar pedal board and synth with looped grooves shared across phones. Live at stompbox-lab.vercel.app.  
 Suno Forge. Song builder that drafts lyrics and style tags for AI music generators. Live at suno-forge-kappa.vercel.app.  
+Talk Box Studio. A talk box voice effect studio with mic and speaker choice.  
+Tapperator. A steering wheel drum kit with a looper and band room sync.  
 Termbeat. Audio reactive terminal that reacts to music or the microphone, with themes and small games. Live at termbeat.vercel.app.  
 Tinewood Keys. Browser electric piano with sustain, octaves, and knobs. Live at tinewood-keys.vercel.app.
 
@@ -64,6 +73,7 @@ Field and Equipment
 Aerophin Twin. Drawing set and interactive 3D part models for two coffee machine designs. Live at aerophin-twin.vercel.app.  
 Drone Training Page. Landing page for a Part 107 drone pilot training program in northern Arizona. Live at dronecamp.vercel.app.  
 Field Study. Study app with flashcards, quizzes, and drills in career and flashcard modes. Live at field-study-pi.vercel.app.  
+Field Twin Viridian. A field twin app that reads and tracks license plates.  
 GroundCore. Desert planting planner with row spacing, plant lookup, and a map sandbox for laying out rows. Live at groundcore-nine.vercel.app.  
 Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.  
 Tank Pump Drip Demo. A demo of a tank, pump, and drip irrigation cycle.  
@@ -89,11 +99,13 @@ Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sy
 Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
 Fold pattern generator. Origami fold pattern generator for printing.  
+Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
+Retro Software Catalog. A retro styled catalog page for the developer's apps.  
 SecureOps. Private operations app with a login, encrypted storage, and a locked down page. Live at secureops-pi.vercel.app.  
 Signal Snapshot. Panel that shows trading signals checked by the signal snapshot backend. Live at virality-snapshot.vercel.app.  
 Threat Dash. Dashboard page for the threat poller, with a watchlist you can add to and remove from.  
@@ -120,15 +132,15 @@ Threat Poller. Background poller that watches GitHub repos by category, saves al
 
 Recent changes
 
-2026-10-14. Scope Listener. Added autopilot, which identifies the song, loads the reference, locates the spot, and tracks and logs the sample level hands free.  
-2026-10-13. Gladhand Dockyard. Added an open city map with signals, telephone poles with wires that come down, outages, and traffic.  
-2026-10-13. Parcelsun. First release, built over four versions in one day.  
-2026-10-13. Percentage Pop-up Typing Game. A pop-up typing game with a dark theme and a live usage meter.  
-2026-10-12. Tractor Toolkit. Tractor toolkit revision B with a footer, a creator seal, and generic app content.  
-2026-10-12. Pajamastan. Released version three.  
-2026-10-12. Parkingten. Fixed the sessions API, added an operator key, switched to a light theme, and resized plate photos before upload.  
-2026-10-12. Tank Pump Drip Demo. Archived the irrigation demo page that shows the tank, pump, and drip cycle.  
-2026-10-12. Torque Converter. A torque converter with a bolt spec lookup.  
-2026-10-12. Pajamastan Invoices. Seller and buyer invoices with a Pajamastan letterhead tab.
+2026-10-17. Talk Box Studio. Created the talk box app.  
+2026-10-17. Retro Software Catalog. Created the retro software catalog.  
+2026-10-17. Tapperator. Created the app as a steering wheel drum kit with a five round calibration, a four tab looper, and room sync.  
+2026-10-17. Inkrunner. Created the game as a comic ink driving sim.  
+2026-10-15. Stompbox Lab. Every phone in a room now gets the list of every other phone.  
+2026-10-15. Hoofer Sync. Added a dance floor with a dancer for every phone in the room.  
+2026-10-15. Field Twin Viridian. First version.  
+2026-10-14. Spectral Engine. Corrected the phone markers.  
+2026-10-14. Looper. Corrected the phone markers.  
+2026-10-14. Axiom. Corrected the phone markers.
 
 Updated automatically by the scribe.
