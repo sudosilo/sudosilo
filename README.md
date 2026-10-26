@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 104 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 115 repos are documented so far.
 
 Games
 
@@ -12,6 +12,8 @@ CARCHIVE. Browser card duel game with a deck builder and duel records. Live at c
 Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
 Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
+FogWarren. A retro desktop fog of war maze game with mines and a hidden picture. Live at fogwarren-vx.vercel.app.  
+Forkmill. A voice text adventure mill that uses an AI engine.  
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
@@ -25,6 +27,7 @@ Skwiggle. Never ending line drawing game with mint support, later replaced by a 
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
 Territory Control. Early first version of a map based territory war game.  
+Text Based Game. A tabletop text game with miniatures where an AI crew takes your orders.  
 The Aliens Win. Arcade shooter where you fly a UFO against waves. Live at aliens-win.vercel.app.  
 Topdown Pixeltown. Top down pixel town game that renders to a canvas. Live at topdown-pixeltown.vercel.app.  
 Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown Pixeltown.  
@@ -38,8 +41,10 @@ Music and Visualizers
 Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-eight-xi.vercel.app.  
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
+ChromaHum Tiles. A camera color to sound instrument with tiles, patterns, and an infinite canvas. Live at chromahum-zq.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
 Ether Wand. A phone instrument where tilting and shaking the phone plays a tone. Live at ether-wand.vercel.app.  
+Fatty Fart Pedal. A silly stomp pedal instrument that plays fart sounds, alone or in a room. Live at fatty-fart-pedal.vercel.app.  
 Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
 Hoofer Sync. A dance floor where every phone in the band room gets a dancer.  
 Looper. A pad looper for recording and layering loops that joins a shared band. Live at looper-sooty.vercel.app.  
@@ -73,6 +78,8 @@ Field and Equipment
 Aerophin Twin. Drawing set and interactive 3D part models for two coffee machine designs. Live at aerophin-twin.vercel.app.  
 Drone Training Page. Landing page for a Part 107 drone pilot training program in northern Arizona. Live at dronecamp.vercel.app.  
 Field Study. Study app with flashcards, quizzes, and drills in career and flashcard modes. Live at field-study-pi.vercel.app.  
+Field Twin Glaucous. A phone app that scores road quality from steering wheel vibration. Live at field-twin-glaucous.vercel.app.  
+Field Twin Violet. A phone inventory app for parts, vendors, orders, and locations. Live at field-twin-violet.vercel.app.  
 Field Twin Viridian. A field twin app that reads and tracks license plates.  
 GroundCore. Desert planting planner with row spacing, plant lookup, and a map sandbox for laying out rows. Live at groundcore-nine.vercel.app.  
 Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.  
@@ -106,6 +113,7 @@ Note Note Note. Turns a picture into colored squares you group into notes and co
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
 Retro Software Catalog. A retro styled catalog page for the developer's apps.  
+Rosetta Pone. A cuneiform to English translator with a sign keyboard. Live at rosetta-pone.vercel.app.  
 SecureOps. Private operations app with a login, encrypted storage, and a locked down page. Live at secureops-pi.vercel.app.  
 Signal Snapshot. Panel that shows trading signals checked by the signal snapshot backend. Live at virality-snapshot.vercel.app.  
 Threat Dash. Dashboard page for the threat poller, with a watchlist you can add to and remove from.  
@@ -119,28 +127,31 @@ Pajamastan Warrants. Public record page that lists the active warrants docket an
 
 Backends and Infrastructure
 
+Agent Test Bed Sandbox. A sandbox copy of the agent test bed where AI agents build a shared city.  
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
 Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
+Shared Server. One server that holds a single Claude key for every app.  
 Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
 Skwiggle Mint Pin. Proxy service that pins Skwiggle art to IPFS so it can be minted.  
-Threat Poller. Background poller that watches GitHub repos by category, saves alerts to Postgres, and serves them over a read API.
+Threat Poller. Background poller that watches GitHub repos by category, saves alerts to Postgres, and serves them over a read API.  
+Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. Live at topo-wars-server.vercel.app.
 
 Recent changes
 
-2026-10-17. Talk Box Studio. Created the talk box app.  
-2026-10-17. Retro Software Catalog. Created the retro software catalog.  
-2026-10-17. Tapperator. Created the app as a steering wheel drum kit with a five round calibration, a four tab looper, and room sync.  
-2026-10-17. Inkrunner. Created the game as a comic ink driving sim.  
-2026-10-15. Stompbox Lab. Every phone in a room now gets the list of every other phone.  
-2026-10-15. Hoofer Sync. Added a dance floor with a dancer for every phone in the room.  
-2026-10-15. Field Twin Viridian. First version.  
-2026-10-14. Spectral Engine. Corrected the phone markers.  
-2026-10-14. Looper. Corrected the phone markers.  
-2026-10-14. Axiom. Corrected the phone markers.
+2026-10-22. Shared Server. Added the roast, push, and fleet apps for HeckleTroll.  
+2026-10-21. Field Twin Violet. Sign in now also works when handed over from one more Field Twin app.  
+2026-10-21. Text Based Game. Created the game with a page and an AI turn function.  
+2026-10-21. Forkmill. Created the game.  
+2026-10-20. Field Twin Glaucous. Added one sign in across the Field Twin apps.  
+2026-10-20. ChromaHum Tiles. Added patterns and tiles as sources, plus a My Tile editor.  
+2026-10-19. Fatty Fart Pedal. Created the pedal as a room instrument.  
+2026-10-18. FogWarren. Created the game.  
+2026-10-18. Rosetta Pone. Every key on the sign keyboard now shows its English meaning.  
+2026-10-18. Agent Test Bed Sandbox. Created the sandbox as a copy of the agent test bed.
 
 Updated automatically by the scribe.
