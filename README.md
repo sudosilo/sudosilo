@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 115 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 126 repos are documented so far.
 
 Games
 
@@ -25,6 +25,7 @@ Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the scr
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
+Stackloom. A studio game with orders, terminals, agents, developers, and offices. Live at stackloom-meta.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
 Territory Control. Early first version of a map based territory war game.  
 Text Based Game. A tabletop text game with miniatures where an AI crew takes your orders.  
@@ -34,6 +35,7 @@ Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown
 Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
 Tower Builder. Beam building tower game that tests your design against wind and earthquakes. Live at tower-builder-five.vercel.app.  
 Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.  
+Welcome to the Madness. A kitchen rush game where you pull orders before they burn. Live at welcome-to-the-madness.vercel.app.  
 Who Is The Final Victor. A canvas game with a pink accent look. Live at final-vector-six.vercel.app.
 
 Music and Visualizers
@@ -42,17 +44,20 @@ Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
 ChromaHum Tiles. A camera color to sound instrument with tiles, patterns, and an infinite canvas. Live at chromahum-zq.vercel.app.  
+Dial Queue. A drum machine with dial rows, instrument families, presets, and toy sounds. Live at 2026-10-20-orange-dialbeat.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
 Ether Wand. A phone instrument where tilting and shaking the phone plays a tone. Live at ether-wand.vercel.app.  
 Fatty Fart Pedal. A silly stomp pedal instrument that plays fart sounds, alone or in a room. Live at fatty-fart-pedal.vercel.app.  
 Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
 Hoofer Sync. A dance floor where every phone in the band room gets a dancer.  
 Looper. A pad looper for recording and layering loops that joins a shared band. Live at looper-sooty.vercel.app.  
+Offset Listener. A phone app that identifies a song and syncs playback across phones. Live at offset-listener.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
 PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmill.vercel.app.  
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
 Scope Listener. An oscilloscope that compares a song to the phone mic and shows the offset. Live at scope-listener.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
+Sound Bender. A page that bends the pitch and tempo of a sound through a processing server.  
 Spectral Engine. Twelve sound visualizers that can follow a shared band. Live at spectral-engine.vercel.app.  
 Stompbox Lab. A guitar pedal board and synth with looped grooves shared across phones. Live at stompbox-lab.vercel.app.  
 Suno Forge. Song builder that drafts lyrics and style tags for AI music generators. Live at suno-forge-kappa.vercel.app.  
@@ -78,6 +83,7 @@ Field and Equipment
 Aerophin Twin. Drawing set and interactive 3D part models for two coffee machine designs. Live at aerophin-twin.vercel.app.  
 Drone Training Page. Landing page for a Part 107 drone pilot training program in northern Arizona. Live at dronecamp.vercel.app.  
 Field Study. Study app with flashcards, quizzes, and drills in career and flashcard modes. Live at field-study-pi.vercel.app.  
+Field Twin. A field log with a map, receipts, mileage, and an Android app that tracks stops. Live at field-twin-teal.vercel.app.  
 Field Twin Glaucous. A phone app that scores road quality from steering wheel vibration. Live at field-twin-glaucous.vercel.app.  
 Field Twin Violet. A phone inventory app for parts, vendors, orders, and locations. Live at field-twin-violet.vercel.app.  
 Field Twin Viridian. A field twin app that reads and tracks license plates.  
@@ -100,6 +106,7 @@ Threat Atlas. Interactive globe of security threats with layers, filters, and co
 Tools
 
 Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
+App Index. An index page that lists every app with its age, phone tags, and notes. Live at mohavetech-website.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
 Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sync. Live at daily-outline.vercel.app.  
@@ -107,6 +114,7 @@ Diamond Driller. Turns a picture into a numbered color-by-number drill pattern w
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
 Fold pattern generator. Origami fold pattern generator for printing.  
 Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
+Itchy Troll. An agent that ships one app a day to a game publishing site and keeps a ledger. Live at itchy-troll.vercel.app.  
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
@@ -127,31 +135,34 @@ Pajamastan Warrants. Public record page that lists the active warrants docket an
 
 Backends and Infrastructure
 
+Agent Orange. An AI agent that builds the north and east side of a shared line drawn city. Live at 2026-10-22-orange-agent.vercel.app.  
 Agent Test Bed Sandbox. A sandbox copy of the agent test bed where AI agents build a shared city.  
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
 Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
+Purple Agent. An AI agent that builds one block of a shared city in the Agent Test Bed.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
 Shared Server. One server that holds a single Claude key for every app.  
 Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
 Skwiggle Mint Pin. Proxy service that pins Skwiggle art to IPFS so it can be minted.  
+Steward Repo. Two AI agents that keep the shared city's water, sewer, and street life running.  
 Threat Poller. Background poller that watches GitHub repos by category, saves alerts to Postgres, and serves them over a read API.  
 Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. Live at topo-wars-server.vercel.app.
 
 Recent changes
 
-2026-10-22. Shared Server. Added the roast, push, and fleet apps for HeckleTroll.  
-2026-10-21. Field Twin Violet. Sign in now also works when handed over from one more Field Twin app.  
-2026-10-21. Text Based Game. Created the game with a page and an AI turn function.  
-2026-10-21. Forkmill. Created the game.  
-2026-10-20. Field Twin Glaucous. Added one sign in across the Field Twin apps.  
-2026-10-20. ChromaHum Tiles. Added patterns and tiles as sources, plus a My Tile editor.  
-2026-10-19. Fatty Fart Pedal. Created the pedal as a room instrument.  
-2026-10-18. FogWarren. Created the game.  
-2026-10-18. Rosetta Pone. Every key on the sign keyboard now shows its English meaning.  
-2026-10-18. Agent Test Bed Sandbox. Created the sandbox as a copy of the agent test bed.
+2026-10-26. Steward Repo. The detailer now stands down here when it runs on the Blue service instead.  
+2026-10-26. Itchy Troll. Shipped Atlas of Tiles again.  
+2026-10-25. Field Twin. Added end of day debriefs.  
+2026-10-25. Offset Listener. Added loudness maps for instrumentals, made on the phones.  
+2026-10-25. Stackloom. Added version 2.  
+2026-10-25. Agent Orange. Added a chapel and worker housing turn.  
+2026-10-25. Welcome to the Madness. Added the kitchen rush game, then leveled it up with canvas graphics, a doneness ring, perfect pulls, combos, rush levels, sound, and a pause button.  
+2026-10-24. Sound Bender. Added Sound Bender version 1, a bend page and a Rubber Band processing server.  
+2026-10-22. App Index. Synced with the live project list.  
+2026-10-22. Dial Queue. Added stomp box rooms.
 
 Updated automatically by the scribe.
