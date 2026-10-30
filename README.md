@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 126 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 137 repos are documented so far.
 
 Games
 
@@ -17,6 +17,7 @@ Forkmill. A voice text adventure mill that uses an AI engine.
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
+Mill-ionaire. A letter shop tycoon built around a simulated knee mill that grows into a factory floor. Live at mill-ionaire.vercel.app.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
 ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
@@ -43,6 +44,7 @@ Music and Visualizers
 Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-eight-xi.vercel.app.  
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
+BPM Finder. Hold a phone near a speaker and read the tempo of the music in beats per minute. Live at bpm-finder.vercel.app.  
 ChromaHum Tiles. A camera color to sound instrument with tiles, patterns, and an infinite canvas. Live at chromahum-zq.vercel.app.  
 Dial Queue. A drum machine with dial rows, instrument families, presets, and toy sounds. Live at 2026-10-20-orange-dialbeat.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
@@ -50,6 +52,7 @@ Ether Wand. A phone instrument where tilting and shaking the phone plays a tone.
 Fatty Fart Pedal. A silly stomp pedal instrument that plays fart sounds, alone or in a room. Live at fatty-fart-pedal.vercel.app.  
 Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
 Hoofer Sync. A dance floor where every phone in the band room gets a dancer.  
+Laugh Box. A phone laugh track box with keys, a looping crowd pattern, and shared rooms.  
 Looper. A pad looper for recording and layering loops that joins a shared band. Live at looper-sooty.vercel.app.  
 Offset Listener. A phone app that identifies a song and syncs playback across phones. Live at offset-listener.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
@@ -57,6 +60,8 @@ PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmil
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
 Scope Listener. An oscilloscope that compares a song to the phone mic and shows the offset. Live at scope-listener.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
+Smash Bender. A server that sings one song's words on another song's timing and notes.  
+Smash Director. A song mashup tool that matches vocals to beats by tempo and drops them on the bar. Live at 2026-10-23-orange-smash.vercel.app.  
 Sound Bender. A page that bends the pitch and tempo of a sound through a processing server.  
 Spectral Engine. Twelve sound visualizers that can follow a shared band. Live at spectral-engine.vercel.app.  
 Stompbox Lab. A guitar pedal board and synth with looped grooves shared across phones. Live at stompbox-lab.vercel.app.  
@@ -73,6 +78,7 @@ Check-In Kiosk. Guest check-in kiosk with walk-ins, reservations, and a staff ar
 Coffee Autosim. Live blueprint simulator of a coffee shop floor with baristas. Live at coffee-autosim.vercel.app.  
 QSR Equivalents Engine. Shows which menu items one restaurant could build from another restaurant's ingredients. Live at equivalence-engine.vercel.app.  
 QSR Receipt Sim. Receipt designer for quick service restaurants with a live preview. Live at qsr-receipt-sim.vercel.app.  
+QSR Timeline. A timeline of quick service restaurant menus through the decades, with early menus and photos.  
 Restaurant Design and Setup Survey. Survey tool for designing and scoring a restaurant concept. Live at ghost-kitchen-builder.vercel.app.  
 RTSS. Restaurant technology site survey form with cloud sync and CSV export. Live at rtss-sigma.vercel.app.  
 Shitty Ass Trading App. Stock tracker for restaurant and food industry tickers with news, recalls, filings, and sentiment. Live at shitty-ass-trading.vercel.app.
@@ -119,6 +125,7 @@ KVS Roulette. Random episode and clip player with season and shuffle modes. Live
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
+PDF Text Editor. Open a PDF, tap a line of text, and change what it says without leaving your device. Live at pdf-yourself.vercel.app.  
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
 Retro Software Catalog. A retro styled catalog page for the developer's apps.  
 Rosetta Pone. A cuneiform to English translator with a sign keyboard. Live at rosetta-pone.vercel.app.  
@@ -136,9 +143,12 @@ Pajamastan Warrants. Public record page that lists the active warrants docket an
 Backends and Infrastructure
 
 Agent Orange. An AI agent that builds the north and east side of a shared line drawn city. Live at 2026-10-22-orange-agent.vercel.app.  
+Agent Test Bed. A shared city where AI agents take turns building, with a viewer and a web API. Live at 2026-10-18-orange-testbed.vercel.app.  
 Agent Test Bed Sandbox. A sandbox copy of the agent test bed where AI agents build a shared city.  
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
+Blue Agent. The runner and dashboard that schedule AI agents to play the test bed.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
+Conveyor Sim. A conveyor simulation started from a copy of the agent test bed. Live at conveyor-sim.vercel.app.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
 Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
@@ -149,20 +159,21 @@ Signal Snapshot Backend. Backend that checks price bars for patterns and grades 
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
 Skwiggle Mint Pin. Proxy service that pins Skwiggle art to IPFS so it can be minted.  
 Steward Repo. Two AI agents that keep the shared city's water, sewer, and street life running.  
+Test Bed Notes. A shared notes board where agents playing the test bed leave messages for each other.  
 Threat Poller. Background poller that watches GitHub repos by category, saves alerts to Postgres, and serves them over a read API.  
 Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. Live at topo-wars-server.vercel.app.
 
 Recent changes
 
-2026-10-26. Steward Repo. The detailer now stands down here when it runs on the Blue service instead.  
-2026-10-26. Itchy Troll. Shipped Atlas of Tiles again.  
-2026-10-25. Field Twin. Added end of day debriefs.  
-2026-10-25. Offset Listener. Added loudness maps for instrumentals, made on the phones.  
-2026-10-25. Stackloom. Added version 2.  
-2026-10-25. Agent Orange. Added a chapel and worker housing turn.  
-2026-10-25. Welcome to the Madness. Added the kitchen rush game, then leveled it up with canvas graphics, a doneness ring, perfect pulls, combos, rush levels, sound, and a pause button.  
-2026-10-24. Sound Bender. Added Sound Bender version 1, a bend page and a Rubber Band processing server.  
-2026-10-22. App Index. Synced with the live project list.  
-2026-10-22. Dial Queue. Added stomp box rooms.
+2026-10-29. Blue Agent. The detailer now plays once a day at a set time and retries hourly when out of credit.  
+2026-10-29. Smash Director. Added quadro smash with two beats and two vocals, and a swap button that trades the roles of the two songs.  
+2026-10-29. PDF Text Editor. A PDF text editor that highlights editable lines, replaces text in a matching font, tracks edits, and downloads the result.  
+2026-10-29. Smash Bender. Word timing now uses the real lyrics and a word map, so the second song is cut on real word edges and sung on the first song's timing and notes.  
+2026-10-28. Agent Test Bed. Pushes from agents no longer trigger an automatic deploy.  
+2026-10-28. BPM Finder. A tempo finder that listens through the microphone, shows beats per minute on a dial with a confidence meter, and has a tap button.  
+2026-10-28. QSR Timeline. Added the QSR Timeline page, then added menus from before quick service, 1880 to 1920, with photos.  
+2026-10-28. Conveyor Sim. Started the conveyor simulation as a copy of the agent test bed.  
+2026-10-26. Mill-ionaire. Redeployed the five axis CNC update.  
+2026-10-26. Steward Repo. The detailer now stands down here when it runs on the Blue service instead.
 
 Updated automatically by the scribe.
