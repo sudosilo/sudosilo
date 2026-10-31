@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 137 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 139 repos are documented so far.
 
 Games
 
@@ -106,6 +106,7 @@ ebutuoy. Discovery app that plays short samples of rarely seen videos. Live at e
 Gridmark. GPS location marker and heatmap that sorts places into work and personal.  
 Mind Globe. 3D globe where your notes become land. Live at ming-globe.vercel.app.  
 Mission Operator. Location aware scanner console for nearby aircraft, radios, mesh nodes, and towers. Live at mission-operator.vercel.app.  
+Mission Operator Next. Field scanner console for nearby aircraft, radios, mesh nodes, and towers, rebuilt with honest error states. Live at mission-operator-next.vercel.app.  
 Parcelsun. A solar heat model for a parcel locker with a four module default.  
 Threat Atlas. Interactive globe of security threats with layers, filters, and country intel. Live at threat-atlas-two.vercel.app.
 
@@ -154,6 +155,7 @@ Hackercons Roulette API. Catalog service that serves random playable conference 
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
 Purple Agent. An AI agent that builds one block of a shared city in the Agent Test Bed.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
+Score Hub. Shared score board and live plays feed that the games send their scores to. Live at 2026-10-30-orange-scores.vercel.app.  
 Shared Server. One server that holds a single Claude key for every app.  
 Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
@@ -165,15 +167,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-10-29. Blue Agent. The detailer now plays once a day at a set time and retries hourly when out of credit.  
-2026-10-29. Smash Director. Added quadro smash with two beats and two vocals, and a swap button that trades the roles of the two songs.  
-2026-10-29. PDF Text Editor. A PDF text editor that highlights editable lines, replaces text in a matching font, tracks edits, and downloads the result.  
-2026-10-29. Smash Bender. Word timing now uses the real lyrics and a word map, so the second song is cut on real word edges and sung on the first song's timing and notes.  
-2026-10-28. Agent Test Bed. Pushes from agents no longer trigger an automatic deploy.  
-2026-10-28. BPM Finder. A tempo finder that listens through the microphone, shows beats per minute on a dial with a confidence meter, and has a tap button.  
-2026-10-28. QSR Timeline. Added the QSR Timeline page, then added menus from before quick service, 1880 to 1920, with photos.  
-2026-10-28. Conveyor Sim. Started the conveyor simulation as a copy of the agent test bed.  
-2026-10-26. Mill-ionaire. Redeployed the five axis CNC update.  
-2026-10-26. Steward Repo. The detailer now stands down here when it runs on the Blue service instead.
+2026-10-30. Gladhand Dockyard. Added many rides to drive, including a yard truck, an apocalypse rig, a sports car, a helicopter, tow trucks, a flatbed, a dump truck with a pup, and a tank with a turret, cannon, and machine gun.  
+2026-10-30. App Index. Added a Galleon view where every app is a cannon on one huge wooden warship.  
+2026-10-30. Offset Listener. Added a Smash Bender relay queue: the app queues a job, a phone takes it and reports back.  
+2026-10-30. EDMIA. Rebuilt the audio engine and gameplay.  
+2026-10-30. Agent Test Bed. The agent and steward turns were played and merged.  
+2026-10-30. Itchy Troll. Added a browser userscript that fills in a game's page on the publishing site from a saved page file, including description, tagline, genre, and tags.  
+2026-10-30. Smash Director. Added Send to Smash Bender, which posts the instrumental and acapella to the processing server from Smash and from saved samples.  
+2026-10-30. Smash Bender. Added a listening check for words understood and sounds-like, a key strength reading from singing loudness, and a lab toolbox installer.  
+2026-10-30. Mission Operator Next. Every relay call now has a timeout, so a slow feed fails fast, and relays answer in one shape with a hint instead of a bare error.  
+2026-10-30. Score Hub. A shared score service for the games, with a small script that games use to send scores and a hub page that lists top scores and live plays.
 
 Updated automatically by the scribe.
