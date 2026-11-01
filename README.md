@@ -1,9 +1,10 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 139 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 142 repos are documented so far.
 
 Games
 
+A Canticle for Pajamastan. A top down action role playing game set in Pajamastan with a playable slice and a relay. Live at a-canticle-for-pajamastan.vercel.app.  
 Ascend. Endless vertical platformer with moving platforms, powerups, and touch controls for phones. Live at ascend-pearl-ten.vercel.app.  
 Atlas of Tiles. Tile rotating puzzle where closed loops score, with regional tile styles. Live at tile-spinner.vercel.app.  
 Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic mode. Live at beesim-green.vercel.app.  
@@ -31,6 +32,7 @@ Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. 
 Territory Control. Early first version of a map based territory war game.  
 Text Based Game. A tabletop text game with miniatures where an AI crew takes your orders.  
 The Aliens Win. Arcade shooter where you fly a UFO against waves. Live at aliens-win.vercel.app.  
+Tomatomo. A pocket pet handheld game you raise from an egg. Live at tomatomo.vercel.app.  
 Topdown Pixeltown. Top down pixel town game that renders to a canvas. Live at topdown-pixeltown.vercel.app.  
 Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown Pixeltown.  
 Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
@@ -41,6 +43,7 @@ Who Is The Final Victor. A canvas game with a pink accent look. Live at final-ve
 
 Music and Visualizers
 
+Algorithm Albatross. Instrumental skeleton analysis and cover pair matching for songs.  
 Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-eight-xi.vercel.app.  
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
@@ -167,15 +170,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-10-30. Gladhand Dockyard. Added many rides to drive, including a yard truck, an apocalypse rig, a sports car, a helicopter, tow trucks, a flatbed, a dump truck with a pup, and a tank with a turret, cannon, and machine gun.  
-2026-10-30. App Index. Added a Galleon view where every app is a cannon on one huge wooden warship.  
-2026-10-30. Offset Listener. Added a Smash Bender relay queue: the app queues a job, a phone takes it and reports back.  
-2026-10-30. EDMIA. Rebuilt the audio engine and gameplay.  
-2026-10-30. Agent Test Bed. The agent and steward turns were played and merged.  
-2026-10-30. Itchy Troll. Added a browser userscript that fills in a game's page on the publishing site from a saved page file, including description, tagline, genre, and tags.  
-2026-10-30. Smash Director. Added Send to Smash Bender, which posts the instrumental and acapella to the processing server from Smash and from saved samples.  
-2026-10-30. Smash Bender. Added a listening check for words understood and sounds-like, a key strength reading from singing loudness, and a lab toolbox installer.  
-2026-10-30. Mission Operator Next. Every relay call now has a timeout, so a slow feed fails fast, and relays answer in one shape with a hint instead of a bare error.  
-2026-10-30. Score Hub. A shared score service for the games, with a small script that games use to send scores and a hub page that lists top scores and live plays.
+2026-10-31. Field Twin. Added GO navigation.  
+2026-10-31. App Index. Added link rain, where every free link falls as a raindrop colored by category.  
+2026-10-31. The Aliens Win. Added a handoff document for the project.  
+2026-10-31. Mind Globe. Added world presets, so you can start the globe from Earth continents or a checkerboard.  
+2026-10-31. Cat Command Chat. Added extra message sounds and look controls under About.  
+2026-10-31. FogWarren. Version two sends your score, initials, and a site link to the shared score hub.  
+2026-10-31. A Canticle for Pajamastan. Created the game.  
+2026-10-31. Algorithm Albatross. Created the app.  
+2026-10-31. Tomatomo. Created the app.  
+2026-10-30. Gladhand Dockyard. Added many rides to drive, including a yard truck, an apocalypse rig, a sports car, a helicopter, tow trucks, a flatbed, a dump truck with a pup, and a tank with a turret, cannon, and machine gun.
 
 Updated automatically by the scribe.
