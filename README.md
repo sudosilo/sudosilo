@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 142 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 145 repos are documented so far.
 
 Games
 
@@ -16,7 +16,9 @@ EDMIA. Falling block color match game where every move adds to the music. Live a
 FogWarren. A retro desktop fog of war maze game with mines and a hidden picture. Live at fogwarren-vx.vercel.app.  
 Forkmill. A voice text adventure mill that uses an AI engine.  
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
+Infinicanvan. An infinite zooming canvas with drawing tools and growing trees. Live at infinicanvan.vercel.app.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
+J30P4RDY. A Jeopardy style lyrics quiz where players race to buzz in on song clues. Live at j30p4rdy.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 Mill-ionaire. A letter shop tycoon built around a simulated knee mill that grows into a factory floor. Live at mill-ionaire.vercel.app.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
@@ -120,6 +122,7 @@ App Index. An index page that lists every app with its age, phone tags, and note
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
 Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sync. Live at daily-outline.vercel.app.  
+Decimal Day Clock. A decimal day clock with a day count since 1970 and a normal clock with time zones. Live at 2026-11-01-orange-decimalday.vercel.app.  
 Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
 Fold pattern generator. Origami fold pattern generator for printing.  
@@ -170,15 +173,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-10-31. Field Twin. Added GO navigation.  
-2026-10-31. App Index. Added link rain, where every free link falls as a raindrop colored by category.  
-2026-10-31. The Aliens Win. Added a handoff document for the project.  
-2026-10-31. Mind Globe. Added world presets, so you can start the globe from Earth continents or a checkerboard.  
-2026-10-31. Cat Command Chat. Added extra message sounds and look controls under About.  
-2026-10-31. FogWarren. Version two sends your score, initials, and a site link to the shared score hub.  
-2026-10-31. A Canticle for Pajamastan. Created the game.  
-2026-10-31. Algorithm Albatross. Created the app.  
-2026-10-31. Tomatomo. Created the app.  
-2026-10-30. Gladhand Dockyard. Added many rides to drive, including a yard truck, an apocalypse rig, a sports car, a helicopter, tow trucks, a flatbed, a dump truck with a pup, and a tank with a turret, cannon, and machine gun.
+2026-11-02. NANOVERSE. Added a train, a big ship, a stadium, and more bridges.  
+2026-11-02. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-01. Field Twin. Added a floating map window.  
+2026-11-01. App Index. The app index was synced with the live deployments.  
+2026-11-01. Termbeat. Added Matrix, Snow, and Waterfall modes.  
+2026-11-01. Algorithm Albatross. Added a fetcher that pulls instrumental tracks from an open music archive and checks for duplicates before adding them.  
+2026-11-01. J30P4RDY. This is version 2 of a Jeopardy style lyrics quiz.  
+2026-11-01. Infinicanvan. An infinite canvas that zooms without limit, with a pen, emoji stamps, paint mode, and cat tools.  
+2026-11-01. Decimal Day Clock. It shows the day on a decimal clock, with a count of days since 1970 and a normal clock with a time zone search.  
+2026-10-31. The Aliens Win. Added a handoff document for the project.
 
 Updated automatically by the scribe.
