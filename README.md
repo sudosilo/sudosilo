@@ -173,8 +173,8 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-03. Agent Test Bed. The agent turn was played and merged into the city.  
 2026-11-02. NANOVERSE. Added a train, a big ship, a stadium, and more bridges.  
-2026-11-02. Agent Test Bed. The agent turn was played and merged into the city.  
 2026-11-01. Field Twin. Added a floating map window.  
 2026-11-01. App Index. The app index was synced with the live deployments.  
 2026-11-01. Termbeat. Added Matrix, Snow, and Waterfall modes.  
