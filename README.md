@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 145 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 146 repos are documented so far.
 
 Games
 
@@ -117,6 +117,7 @@ Threat Atlas. Interactive globe of security threats with layers, filters, and co
 
 Tools
 
+67 Idea Generator. A sixty second pitch timer that records takes, reads them back in a chosen voice, and exports the good ones. Live at 67-idea-generator.vercel.app.  
 Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
 App Index. An index page that lists every app with its age, phone tags, and notes. Live at mohavetech-website.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
@@ -173,15 +174,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-03. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-04. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-03. Field Twin. Added the Field Twin Companion, a small dashboard screen that pairs with the phone app over Bluetooth.  
+2026-11-03. Algorithm Albatross. Added a bass line layer.  
+2026-11-03. 67 Idea Generator. Created the app.  
 2026-11-02. NANOVERSE. Added a train, a big ship, a stadium, and more bridges.  
-2026-11-01. Field Twin. Added a floating map window.  
 2026-11-01. App Index. The app index was synced with the live deployments.  
 2026-11-01. Termbeat. Added Matrix, Snow, and Waterfall modes.  
-2026-11-01. Algorithm Albatross. Added a fetcher that pulls instrumental tracks from an open music archive and checks for duplicates before adding them.  
 2026-11-01. J30P4RDY. This is version 2 of a Jeopardy style lyrics quiz.  
 2026-11-01. Infinicanvan. An infinite canvas that zooms without limit, with a pen, emoji stamps, paint mode, and cat tools.  
-2026-11-01. Decimal Day Clock. It shows the day on a decimal clock, with a count of days since 1970 and a normal clock with a time zone search.  
-2026-10-31. The Aliens Win. Added a handoff document for the project.
+2026-11-01. Decimal Day Clock. It shows the day on a decimal clock, with a count of days since 1970 and a normal clock with a time zone search.
 
 Updated automatically by the scribe.
