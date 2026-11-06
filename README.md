@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 146 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 153 repos are documented so far.
 
 Games
 
@@ -12,7 +12,10 @@ BIRDIXEL. Bird territory game with free paint and stained glass modes. Live at b
 CARCHIVE. Browser card duel game with a deck builder and duel records. Live at carchive-nine.vercel.app.  
 Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
 Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
+CoffeeKit One. A coffee shop training game with kitchen display orders and cleaning rounds. Live at coffeekit1.vercel.app.  
+Drive-Thru Dental Simulator. A drive-thru dental simulator game played in the browser. Live at 2026-11-05-drive-thru-dental.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
+Field Dispatch. A field service dispatch game where crews drive real roads to repair cameras and fill tickets. Live at 2026-11-04-field-dispatch.vercel.app.  
 FogWarren. A retro desktop fog of war maze game with mines and a hidden picture. Live at fogwarren-vx.vercel.app.  
 Forkmill. A voice text adventure mill that uses an AI engine.  
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
@@ -62,6 +65,7 @@ Looper. A pad looper for recording and layering loops that joins a shared band. 
 Offset Listener. A phone app that identifies a song and syncs playback across phones. Live at offset-listener.vercel.app.  
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
 PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmill.vercel.app.  
+Rainbow Run. A wall of phones that shows synced visualizer scenes for the stompbox API. Live at rainbow-run-ochre.vercel.app.  
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
 Scope Listener. An oscilloscope that compares a song to the phone mic and shows the offset. Live at scope-listener.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
@@ -128,8 +132,11 @@ Diamond Driller. Turns a picture into a numbered color-by-number drill pattern w
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
 Fold pattern generator. Origami fold pattern generator for printing.  
 Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
+Hire Portal. A practice job application portal that teaches what to share at each step.  
+Hush. An Android notification blocker that holds alerts and releases them together on a schedule.  
 Itchy Troll. An agent that ships one app a day to a game publishing site and keeps a ledger. Live at itchy-troll.vercel.app.  
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
+Locker Screen. A parcel locker kiosk screen with code entry, languages, and repair flows. Live at 2026-11-05-locker-screen.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
@@ -174,15 +181,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-04. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-03. Field Twin. Added the Field Twin Companion, a small dashboard screen that pairs with the phone app over Bluetooth.  
-2026-11-03. Algorithm Albatross. Added a bass line layer.  
-2026-11-03. 67 Idea Generator. Created the app.  
-2026-11-02. NANOVERSE. Added a train, a big ship, a stadium, and more bridges.  
-2026-11-01. App Index. The app index was synced with the live deployments.  
-2026-11-01. Termbeat. Added Matrix, Snow, and Waterfall modes.  
-2026-11-01. J30P4RDY. This is version 2 of a Jeopardy style lyrics quiz.  
-2026-11-01. Infinicanvan. An infinite canvas that zooms without limit, with a pen, emoji stamps, paint mode, and cat tools.  
-2026-11-01. Decimal Day Clock. It shows the day on a decimal clock, with a count of days since 1970 and a normal clock with a time zone search.
+2026-11-06. Mill-ionaire. Order, lathe, and brake programs now resume when the game is reopened without a crash.  
+2026-11-06. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-05. App Index. Added a one step sync that updates deploy dates from the live deployments.  
+2026-11-05. Coffee Autosim. Version 4 is a real shift simulator with arrivals, stations that contend for work, and a shift report.  
+2026-11-05. Cat Command Chat. Added rooms.  
+2026-11-05. Drive-Thru Dental Simulator. Created the Drive-Thru Dental Simulator, a game where you run a dental window like a drive-thru.  
+2026-11-05. Locker Screen. Created Locker Screen, a parcel locker kiosk with an attract screen.  
+2026-11-05. CoffeeKit One. Added CoffeeKit One as a copy of the live app.  
+2026-11-05. Hire Portal. Created Hire Portal, a practice job application that teaches what to share.  
+2026-11-05. Rainbow Run. Added a Screensavers group and a Spectral Engine group to the menu.
 
 Updated automatically by the scribe.
