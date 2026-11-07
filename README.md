@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 153 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 154 repos are documented so far.
 
 Games
 
@@ -143,6 +143,7 @@ Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules
 PDF Text Editor. Open a PDF, tap a line of text, and change what it says without leaving your device. Live at pdf-yourself.vercel.app.  
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
 Retro Software Catalog. A retro styled catalog page for the developer's apps.  
+Road Layers. A browser tool that stacks cars from several drive clips onto one road. Live at downfree-foundry.vercel.app.  
 Rosetta Pone. A cuneiform to English translator with a sign keyboard. Live at rosetta-pone.vercel.app.  
 SecureOps. Private operations app with a login, encrypted storage, and a locked down page. Live at secureops-pi.vercel.app.  
 Signal Snapshot. Panel that shows trading signals checked by the signal snapshot backend. Live at virality-snapshot.vercel.app.  
@@ -181,15 +182,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-06. Field Twin. The Field Twin Companion now draws the streets around you, sent by the phone from OpenStreetMap and refreshed as you drive.  
 2026-11-06. Mill-ionaire. Order, lathe, and brake programs now resume when the game is reopened without a crash.  
+2026-11-06. Cat Command Chat. Chat rooms now set up from GitHub with no phone sign in needed.  
+2026-11-06. Field Twin Violet. Added company parts, working and not working counts, and a Count stuff action for taking inventory.  
 2026-11-06. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-06. Road Layers. Created Road Layers, a test page that stacks cars from several drives onto one road.  
 2026-11-05. App Index. Added a one step sync that updates deploy dates from the live deployments.  
 2026-11-05. Coffee Autosim. Version 4 is a real shift simulator with arrivals, stations that contend for work, and a shift report.  
-2026-11-05. Cat Command Chat. Added rooms.  
-2026-11-05. Drive-Thru Dental Simulator. Created the Drive-Thru Dental Simulator, a game where you run a dental window like a drive-thru.  
-2026-11-05. Locker Screen. Created Locker Screen, a parcel locker kiosk with an attract screen.  
-2026-11-05. CoffeeKit One. Added CoffeeKit One as a copy of the live app.  
-2026-11-05. Hire Portal. Created Hire Portal, a practice job application that teaches what to share.  
-2026-11-05. Rainbow Run. Added a Screensavers group and a Spectral Engine group to the menu.
+2026-11-05. Tower Builder 2. Rebuilt the game with a light theme, a real truss physics engine, a level picker, undo, erase, saved builds, and a phone friendly layout.  
+2026-11-05. Retro Software Catalog. Removed Tunnel FX from the catalog.
 
 Updated automatically by the scribe.
