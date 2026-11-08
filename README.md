@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 154 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 156 repos are documented so far.
 
 Games
 
@@ -152,6 +152,7 @@ Vercel Stumbler. Random vercel.app name finder that opens names and keeps the li
 
 Pajamastan
 
+Badge Tool. A badge designer with templates, people, and a paper mockup reader. Live at pajamastan-badge-tool.vercel.app.  
 Pajamastan. The official site of the micronation of Pajamastan. Live at pajamastan.vercel.app.  
 Pajamastan Invoices. Seller and buyer invoices with a Pajamastan letterhead tab.  
 Pajamastan Warrants. Public record page that lists the active warrants docket and checks for new ones. Live at pajamastan-warrants.vercel.app.
@@ -176,21 +177,22 @@ Signal Snapshot Backend. Backend that checks price bars for patterns and grades 
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
 Skwiggle Mint Pin. Proxy service that pins Skwiggle art to IPFS so it can be minted.  
 Steward Repo. Two AI agents that keep the shared city's water, sewer, and street life running.  
+Stinkin Badges. The backend that reads badge mockups and saves badge data.  
 Test Bed Notes. A shared notes board where agents playing the test bed leave messages for each other.  
 Threat Poller. Background poller that watches GitHub repos by category, saves alerts to Postgres, and serves them over a read API.  
 Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. Live at topo-wars-server.vercel.app.
 
 Recent changes
 
-2026-11-06. Field Twin. The Field Twin Companion now draws the streets around you, sent by the phone from OpenStreetMap and refreshed as you drive.  
-2026-11-06. Mill-ionaire. Order, lathe, and brake programs now resume when the game is reopened without a crash.  
-2026-11-06. Cat Command Chat. Chat rooms now set up from GitHub with no phone sign in needed.  
-2026-11-06. Field Twin Violet. Added company parts, working and not working counts, and a Count stuff action for taking inventory.  
-2026-11-06. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-06. Road Layers. Created Road Layers, a test page that stacks cars from several drives onto one road.  
-2026-11-05. App Index. Added a one step sync that updates deploy dates from the live deployments.  
-2026-11-05. Coffee Autosim. Version 4 is a real shift simulator with arrivals, stations that contend for work, and a shift report.  
-2026-11-05. Tower Builder 2. Rebuilt the game with a light theme, a real truss physics engine, a level picker, undo, erase, saved builds, and a phone friendly layout.  
-2026-11-05. Retro Software Catalog. Removed Tunnel FX from the catalog.
+2026-11-07. Pajamastan. Added a Links tab that includes the badge tool.  
+2026-11-07. Field Twin. The odometer check now pulls the newest readings from other phones before it warns.  
+2026-11-07. Stompbox Lab. Added a stadium mode to the band server with a seating plan and picture and video cues for every screen.  
+2026-11-07. Field Twin Violet. Added a way to log an order from outside the app.  
+2026-11-07. Agent Test Bed. The agent, steward, and grok turns for the day were played and merged into the city.  
+2026-11-07. Hire Portal. Added a headshot upload for the badge, saved with the profile.  
+2026-11-07. Rainbow Run. Added a stadium mode with a seating planner, and pictures and video that play on every screen, including YouTube videos and a stunt shared across the crowd.  
+2026-11-07. Road Layers. Added a Record tab to Road Layers.  
+2026-11-07. Badge Tool. Created the badge tool, a page for designing name badges.  
+2026-11-07. Stinkin Badges. Created the backend for the badge tool.
 
 Updated automatically by the scribe.
