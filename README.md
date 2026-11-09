@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 156 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 158 repos are documented so far.
 
 Games
 
@@ -16,6 +16,7 @@ CoffeeKit One. A coffee shop training game with kitchen display orders and clean
 Drive-Thru Dental Simulator. A drive-thru dental simulator game played in the browser. Live at 2026-11-05-drive-thru-dental.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
 Field Dispatch. A field service dispatch game where crews drive real roads to repair cameras and fill tickets. Live at 2026-11-04-field-dispatch.vercel.app.  
+FLIPCOUNT. Eight counting toys including a flip dot display, an abacus, and number scripts. Live at flipcount-game.vercel.app.  
 FogWarren. A retro desktop fog of war maze game with mines and a hidden picture. Live at fogwarren-vx.vercel.app.  
 Forkmill. A voice text adventure mill that uses an AI engine.  
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
@@ -155,6 +156,7 @@ Pajamastan
 Badge Tool. A badge designer with templates, people, and a paper mockup reader. Live at pajamastan-badge-tool.vercel.app.  
 Pajamastan. The official site of the micronation of Pajamastan. Live at pajamastan.vercel.app.  
 Pajamastan Invoices. Seller and buyer invoices with a Pajamastan letterhead tab.  
+Pajamastan Space Administration. A space weather globe with a solar burst simulator and live satellite positions. Live at pajamastan-space-administration.vercel.app.  
 Pajamastan Warrants. Public record page that lists the active warrants docket and checks for new ones. Live at pajamastan-warrants.vercel.app.
 
 Backends and Infrastructure
@@ -184,15 +186,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-09. ebutuoy backend. Added numbered TV channels from 1 to 1,000,000.  
+2026-11-09. ebutuoy. Added a TV mode to the launch screen with a channel dial and numbered channels.  
+2026-11-09. Agent Test Bed. The agent turn for the day was played and merged into the city.  
+2026-11-08. Road Layers. Recordings now save inside the app in a library, with stop motion capture, a Map tab, and a Road tab that tracks lane lines.  
+2026-11-08. Badge Tool. Added a back side builder for badges with an NFC spot, a QR code, text boxes, seals, and a security look.  
+2026-11-08. FLIPCOUNT. Created FLIPCOUNT with seven tabs for counting and number toys.  
+2026-11-08. Pajamastan Space Administration. Created the page with a globe showing live solar activity, the magnetosphere, the poles, and satellite risk.  
 2026-11-07. Pajamastan. Added a Links tab that includes the badge tool.  
 2026-11-07. Field Twin. The odometer check now pulls the newest readings from other phones before it warns.  
-2026-11-07. Stompbox Lab. Added a stadium mode to the band server with a seating plan and picture and video cues for every screen.  
-2026-11-07. Field Twin Violet. Added a way to log an order from outside the app.  
-2026-11-07. Agent Test Bed. The agent, steward, and grok turns for the day were played and merged into the city.  
-2026-11-07. Hire Portal. Added a headshot upload for the badge, saved with the profile.  
-2026-11-07. Rainbow Run. Added a stadium mode with a seating planner, and pictures and video that play on every screen, including YouTube videos and a stunt shared across the crowd.  
-2026-11-07. Road Layers. Added a Record tab to Road Layers.  
-2026-11-07. Badge Tool. Created the badge tool, a page for designing name badges.  
-2026-11-07. Stinkin Badges. Created the backend for the badge tool.
+2026-11-07. Stompbox Lab. Added a stadium mode to the band server with a seating plan and picture and video cues for every screen.
 
 Updated automatically by the scribe.
