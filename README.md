@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 158 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 163 repos are documented so far.
 
 Games
 
@@ -31,6 +31,7 @@ ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
 Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the screen.  
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
+Scorpion Supper. An endless arcade game where a scorpion eats to grow and hides from coyotes. Live at scorpion-supper.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
 Stackloom. A studio game with orders, terminals, agents, developers, and offices. Live at stackloom-meta.vercel.app.  
@@ -75,6 +76,7 @@ Smash Director. A song mashup tool that matches vocals to beats by tempo and dro
 Sound Bender. A page that bends the pitch and tempo of a sound through a processing server.  
 Spectral Engine. Twelve sound visualizers that can follow a shared band. Live at spectral-engine.vercel.app.  
 Stompbox Lab. A guitar pedal board and synth with looped grooves shared across phones. Live at stompbox-lab.vercel.app.  
+Strudel Samples. A pack of short sound clips that Strudel can load by name.  
 Suno Forge. Song builder that drafts lyrics and style tags for AI music generators. Live at suno-forge-kappa.vercel.app.  
 Talk Box Studio. A talk box voice effect studio with mic and speaker choice.  
 Tapperator. A steering wheel drum kit with a looper and band room sync.  
@@ -114,6 +116,7 @@ Maps and Research
 Data Center OSINT. Map of data centers, power plants, heavy industry, and drought with live satellite imagery. Live at datacenter-osint.vercel.app.  
 ebutuoy. Discovery app that plays short samples of rarely seen videos. Live at ebutuoy.vercel.app.  
 Gridmark. GPS location marker and heatmap that sorts places into work and personal.  
+LV Liquor Intel. A map of Las Vegas liquor stores, casino bars, and bars with filters. Live at lv-liquor-map.vercel.app.  
 Mind Globe. 3D globe where your notes become land. Live at ming-globe.vercel.app.  
 Mission Operator. Location aware scanner console for nearby aircraft, radios, mesh nodes, and towers. Live at mission-operator.vercel.app.  
 Mission Operator Next. Field scanner console for nearby aircraft, radios, mesh nodes, and towers, rebuilt with honest error states. Live at mission-operator-next.vercel.app.  
@@ -135,8 +138,10 @@ Fold pattern generator. Origami fold pattern generator for printing.
 Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
 Hire Portal. A practice job application portal that teaches what to share at each step.  
 Hush. An Android notification blocker that holds alerts and releases them together on a schedule.  
+Ice Files. A novelty agent ID card maker with a photo and a front and back export. Live at 2026-11-09-orange-icefiles.vercel.app.  
 Itchy Troll. An agent that ships one app a day to a game publishing site and keeps a ledger. Live at itchy-troll.vercel.app.  
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
+Lenticular Tilt. A phone toy that blends three photos into a tilting lenticular picture. Live at particular-lenticular.vercel.app.  
 Locker Screen. A parcel locker kiosk screen with code entry, languages, and repair flows. Live at 2026-11-05-locker-screen.vercel.app.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
@@ -186,15 +191,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-10. Agent Test Bed. The agent turn for the day was played and merged into the city.  
+2026-11-09. Parcelsun. Parcelsun version five adds a layout editor in the 3D model, door numbers shown on the doors, and a door numbers card with per column numbering, a skipped starter, and door search.  
+2026-11-09. Stompbox Lab. Added a train window scene where Stompbox notes and pedals become passing scenery.  
 2026-11-09. ebutuoy backend. Added numbered TV channels from 1 to 1,000,000.  
 2026-11-09. ebutuoy. Added a TV mode to the launch screen with a channel dial and numbered channels.  
-2026-11-09. Agent Test Bed. The agent turn for the day was played and merged into the city.  
-2026-11-08. Road Layers. Recordings now save inside the app in a library, with stop motion capture, a Map tab, and a Road tab that tracks lane lines.  
-2026-11-08. Badge Tool. Added a back side builder for badges with an NFC spot, a QR code, text boxes, seals, and a security look.  
-2026-11-08. FLIPCOUNT. Created FLIPCOUNT with seven tabs for counting and number toys.  
-2026-11-08. Pajamastan Space Administration. Created the page with a globe showing live solar activity, the magnetosphere, the poles, and satellite risk.  
-2026-11-07. Pajamastan. Added a Links tab that includes the badge tool.  
-2026-11-07. Field Twin. The odometer check now pulls the newest readings from other phones before it warns.  
-2026-11-07. Stompbox Lab. Added a stadium mode to the band server with a seating plan and picture and video cues for every screen.
+2026-11-09. Mill-ionaire. Added filament printers.  
+2026-11-09. Smash Bender. Added a chop tool that cuts a slice from a sample, reads its notes, and writes Strudel code with a link to open it.  
+2026-11-09. Rainbow Run. Added a train window scene to the wall, where Stompbox notes and pedals become passing scenery.  
+2026-11-09. Road Layers. Added a Music tab to Road Layers.  
+2026-11-09. Ice Files. Created Ice Files, a novelty member ID maker for field agents of a frozen drink company.
 
 Updated automatically by the scribe.
