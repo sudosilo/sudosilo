@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 163 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 167 repos are documented so far.
 
 Games
 
@@ -11,6 +11,7 @@ Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic m
 BIRDIXEL. Bird territory game with free paint and stained glass modes. Live at birdix.vercel.app.  
 CARCHIVE. Browser card duel game with a deck builder and duel records. Live at carchive-nine.vercel.app.  
 Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
+City Seek. A zoomable generated city where you hunt for hidden items. Live at city-seek.vercel.app.  
 Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
 CoffeeKit One. A coffee shop training game with kitchen display orders and cleaning rounds. Live at coffeekit1.vercel.app.  
 Drive-Thru Dental Simulator. A drive-thru dental simulator game played in the browser. Live at 2026-11-05-drive-thru-dental.vercel.app.  
@@ -33,7 +34,9 @@ Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the scr
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Scorpion Supper. An endless arcade game where a scorpion eats to grow and hides from coyotes. Live at scorpion-supper.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
+Sky Flow. A tower crane game where you stack crates before time runs out. Live at skyflow-orange.vercel.app.  
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
+Spy Hunt. A phone map game where red and blue spies hunt each other. Live at spyhunt.vercel.app.  
 Stackloom. A studio game with orders, terminals, agents, developers, and offices. Live at stackloom-meta.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
 Territory Control. Early first version of a map based territory war game.  
@@ -183,6 +186,7 @@ Shared Server. One server that holds a single Claude key for every app.
 Signal Snapshot Backend. Backend that checks price bars for patterns and grades the signals it logs.  
 Skwiggle Backend. Small Express backend for the Skwiggle drawing game, set up to run on Railway.  
 Skwiggle Mint Pin. Proxy service that pins Skwiggle art to IPFS so it can be minted.  
+Spy Hunt Server. The server that shares player positions for Spy Hunt.  
 Steward Repo. Two AI agents that keep the shared city's water, sewer, and street life running.  
 Stinkin Badges. The backend that reads badge mockups and saves badge data.  
 Test Bed Notes. A shared notes board where agents playing the test bed leave messages for each other.  
@@ -191,15 +195,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-11. App Index. Added a dark mode for the modern look with a menu switch.  
+2026-11-10. Parcelsun. Added a Locker Screen kiosk to Parcelsun.  
+2026-11-10. Field Twin Glaucous. Added one look across the Field Twin apps, so the map, inventory, and roads share a design.  
+2026-11-10. Field Twin. Added one look across the Field Twin apps, so the map, inventory, and roads share a design.  
+2026-11-10. Field Twin Violet. Added one look across the Field Twin apps, so the map, inventory, and roads share a design.  
 2026-11-10. Agent Test Bed. The agent turn for the day was played and merged into the city.  
-2026-11-09. Parcelsun. Parcelsun version five adds a layout editor in the 3D model, door numbers shown on the doors, and a door numbers card with per column numbering, a skipped starter, and door search.  
-2026-11-09. Stompbox Lab. Added a train window scene where Stompbox notes and pedals become passing scenery.  
-2026-11-09. ebutuoy backend. Added numbered TV channels from 1 to 1,000,000.  
-2026-11-09. ebutuoy. Added a TV mode to the launch screen with a channel dial and numbered channels.  
-2026-11-09. Mill-ionaire. Added filament printers.  
-2026-11-09. Smash Bender. Added a chop tool that cuts a slice from a sample, reads its notes, and writes Strudel code with a link to open it.  
-2026-11-09. Rainbow Run. Added a train window scene to the wall, where Stompbox notes and pedals become passing scenery.  
-2026-11-09. Road Layers. Added a Music tab to Road Layers.  
-2026-11-09. Ice Files. Created Ice Files, a novelty member ID maker for field agents of a frozen drink company.
+2026-11-10. Rainbow Run. Added a play a song feature.  
+2026-11-10. LV Liquor Intel. Version four now ships with store data baked in from an open places dataset.  
+2026-11-10. Strudel Samples. Added a word puller that grabs every short clip of one word.  
+2026-11-10. City Seek. Created City Seek, a huge zoomable city that is built fresh each time, with hidden items to find.
 
 Updated automatically by the scribe.
