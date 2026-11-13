@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 167 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 171 repos are documented so far.
 
 Games
 
@@ -24,6 +24,7 @@ Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and c
 Infinicanvan. An infinite zooming canvas with drawing tools and growing trees. Live at infinicanvan.vercel.app.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 J30P4RDY. A Jeopardy style lyrics quiz where players race to buzz in on song clues. Live at j30p4rdy.vercel.app.  
+Mail-ionaire. A mail room tycoon game cloned from Mill-ionaire, with its own save and score board. Live at mail-ionaire.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 Mill-ionaire. A letter shop tycoon built around a simulated knee mill that grows into a factory floor. Live at mill-ionaire.vercel.app.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
@@ -102,6 +103,7 @@ Field and Equipment
 
 67 Press Processor. Box dieline designer and press roll layout tool. Live at 67-press-proccessor.vercel.app.  
 Aerophin Twin. Drawing set and interactive 3D part models for two coffee machine designs. Live at aerophin-twin.vercel.app.  
+Delivery Twin. A phone friendly field log with a map, receipts, and mileage, now with a food spots layer. Live at delivery-twin.vercel.app.  
 Drone Training Page. Landing page for a Part 107 drone pilot training program in northern Arizona. Live at dronecamp.vercel.app.  
 Field Study. Study app with flashcards, quizzes, and drills in career and flashcard modes. Live at field-study-pi.vercel.app.  
 Field Twin. A field log with a map, receipts, mileage, and an Android app that tracks stops. Live at field-twin-teal.vercel.app.  
@@ -132,6 +134,7 @@ Tools
 Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
 App Index. An index page that lists every app with its age, phone tags, and notes. Live at mohavetech-website.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
+Code Lens. A page that explains functions from GitHub repos in plain English. Live at 2026-11-11-orange-codelens.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
 Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sync. Live at daily-outline.vercel.app.  
 Decimal Day Clock. A decimal day clock with a day count since 1970 and a normal clock with time zones. Live at 2026-11-01-orange-decimalday.vercel.app.  
@@ -156,6 +159,7 @@ Road Layers. A browser tool that stacks cars from several drive clips onto one r
 Rosetta Pone. A cuneiform to English translator with a sign keyboard. Live at rosetta-pone.vercel.app.  
 SecureOps. Private operations app with a login, encrypted storage, and a locked down page. Live at secureops-pi.vercel.app.  
 Signal Snapshot. Panel that shows trading signals checked by the signal snapshot backend. Live at virality-snapshot.vercel.app.  
+Thanks For Watching. A shuffle player for uploaded media with profiles, badges, a trim editor, and email code sign in. Live at thanks-for-watching.vercel.app.  
 Threat Dash. Dashboard page for the threat poller, with a watchlist you can add to and remove from.  
 Vercel Stumbler. Random vercel.app name finder that opens names and keeps the live ones. Live at stumbler.vercel.app.
 
@@ -195,15 +199,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-11. App Index. Added a dark mode for the modern look with a menu switch.  
-2026-11-10. Parcelsun. Added a Locker Screen kiosk to Parcelsun.  
-2026-11-10. Field Twin Glaucous. Added one look across the Field Twin apps, so the map, inventory, and roads share a design.  
-2026-11-10. Field Twin. Added one look across the Field Twin apps, so the map, inventory, and roads share a design.  
-2026-11-10. Field Twin Violet. Added one look across the Field Twin apps, so the map, inventory, and roads share a design.  
-2026-11-10. Agent Test Bed. The agent turn for the day was played and merged into the city.  
-2026-11-10. Rainbow Run. Added a play a song feature.  
-2026-11-10. LV Liquor Intel. Version four now ships with store data baked in from an open places dataset.  
-2026-11-10. Strudel Samples. Added a word puller that grabs every short clip of one word.  
-2026-11-10. City Seek. Created City Seek, a huge zoomable city that is built fresh each time, with hidden items to find.
+2026-11-13. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-12. Parcelsun. Doors are now fixed slot sizes measured off a real bank, on a column of 29 units, and each column in the Layout card is a list of slots you edit.  
+2026-11-12. Field Twin. The locker site section now has an oversize module count, so a bank with two tall doors beside one full height door module is passed to Parcelsun the way it stands.  
+2026-11-12. Smash Bender. Added a Toolbox page that lists every tool, what it does, whether it is ready, and which button uses it.  
+2026-11-12. Road Layers. Composite can now copy a clip to stack a recording with itself, remove clips, and turn sideways footage upright, in the Road tab too.  
+2026-11-12. Delivery Twin. Renamed the app Delivery Twin and gave it its own data tables.  
+2026-11-12. Mail-ionaire. Added mail room art.  
+2026-11-12. Thanks For Watching. Released Thanks For Watching version one with a shuffle bucket player, uploads, profiles, badges, and flags.  
+2026-11-11. Pajamastan. Added a combined creator seal that shows the Pajamastan flag beside a round seal.  
+2026-11-11. App Index. Added a dark mode for the modern look with a menu switch.
 
 Updated automatically by the scribe.
