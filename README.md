@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 171 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 174 repos are documented so far.
 
 Games
 
@@ -72,6 +72,7 @@ Offset Listener. A phone app that identifies a song and syncs playback across ph
 Phasewell Scope. Dual channel browser scope that compares a song file with the microphone. Live at phasewell-scope.vercel.app.  
 PIXELMILL. Toolpath simulator that cuts endless pixel programs. Live at pixelmill.vercel.app.  
 Rainbow Run. A wall of phones that shows synced visualizer scenes for the stompbox API. Live at rainbow-run-ochre.vercel.app.  
+raineurysm. A rain music toy where falling rain hits vessels that play notes. Live at raineurysm.vercel.app.  
 Rogue Analog Transducer. Music player with a track hub and a visualizer for each song. Live at rat-site-gilt.vercel.app.  
 Scope Listener. An oscilloscope that compares a song to the phone mic and shows the offset. Live at scope-listener.vercel.app.  
 Screensaver. Audio reactive screensaver with seven visual modes. Live at screensaver-musicfx.vercel.app.  
@@ -104,6 +105,7 @@ Field and Equipment
 67 Press Processor. Box dieline designer and press roll layout tool. Live at 67-press-proccessor.vercel.app.  
 Aerophin Twin. Drawing set and interactive 3D part models for two coffee machine designs. Live at aerophin-twin.vercel.app.  
 Delivery Twin. A phone friendly field log with a map, receipts, and mileage, now with a food spots layer. Live at delivery-twin.vercel.app.  
+Delivery Twin Violet. A parts inventory app for field crews in the Delivery Twin family. Live at delivery-twin-violet.vercel.app.  
 Drone Training Page. Landing page for a Part 107 drone pilot training program in northern Arizona. Live at dronecamp.vercel.app.  
 Field Study. Study app with flashcards, quizzes, and drills in career and flashcard modes. Live at field-study-pi.vercel.app.  
 Field Twin. A field log with a map, receipts, mileage, and an Android app that tracks stops. Live at field-twin-teal.vercel.app.  
@@ -133,6 +135,7 @@ Tools
 67 Idea Generator. A sixty second pitch timer that records takes, reads them back in a chosen voice, and exports the good ones. Live at 67-idea-generator.vercel.app.  
 Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
 App Index. An index page that lists every app with its age, phone tags, and notes. Live at mohavetech-website.vercel.app.  
+Artifactium. A found object archive with a flowchart tree explorer and contributor sign in. Live at artifactium.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
 Code Lens. A page that explains functions from GitHub repos in plain English. Live at 2026-11-11-orange-codelens.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
@@ -199,15 +202,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-13. Hoofer Sync. New look: every dancer is a stick figure made of light on a blacked out stage, with light trails off the hands and feet.  
 2026-11-13. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-13. City Seek. Added Music mode, chosen from the Mode switch in the menu.  
+2026-11-13. Delivery Twin. Added fog of war spots, then pickups, dropoffs, and delivery lines on the map.  
+2026-11-13. Artifactium. Created Artifactium, a found object archive with a flowchart tree explorer.  
+2026-11-13. Delivery Twin Violet. Created Delivery Twin Violet as a copy of Field Twin Violet for the Delivery Twin family.  
+2026-11-13. raineurysm. Created raineurysm, a rain music toy where rain falls into vessels that play notes.  
 2026-11-12. Parcelsun. Doors are now fixed slot sizes measured off a real bank, on a column of 29 units, and each column in the Layout card is a list of slots you edit.  
 2026-11-12. Field Twin. The locker site section now has an oversize module count, so a bank with two tall doors beside one full height door module is passed to Parcelsun the way it stands.  
-2026-11-12. Smash Bender. Added a Toolbox page that lists every tool, what it does, whether it is ready, and which button uses it.  
-2026-11-12. Road Layers. Composite can now copy a clip to stack a recording with itself, remove clips, and turn sideways footage upright, in the Road tab too.  
-2026-11-12. Delivery Twin. Renamed the app Delivery Twin and gave it its own data tables.  
-2026-11-12. Mail-ionaire. Added mail room art.  
-2026-11-12. Thanks For Watching. Released Thanks For Watching version one with a shuffle bucket player, uploads, profiles, badges, and flags.  
-2026-11-11. Pajamastan. Added a combined creator seal that shows the Pajamastan flag beside a round seal.  
-2026-11-11. App Index. Added a dark mode for the modern look with a menu switch.
+2026-11-12. Smash Bender. Added a Toolbox page that lists every tool, what it does, whether it is ready, and which button uses it.
 
 Updated automatically by the scribe.
