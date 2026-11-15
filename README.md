@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 174 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 175 repos are documented so far.
 
 Games
 
@@ -27,6 +27,7 @@ J30P4RDY. A Jeopardy style lyrics quiz where players race to buzz in on song clu
 Mail-ionaire. A mail room tycoon game cloned from Mill-ionaire, with its own save and score board. Live at mail-ionaire.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 Mill-ionaire. A letter shop tycoon built around a simulated knee mill that grows into a factory floor. Live at mill-ionaire.vercel.app.  
+MobbyHill. A wireframe off road hill climb for the phone with tilt steering and score hub scores. Live at mobbyhill.vercel.app.  
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
 ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
@@ -202,15 +203,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-15. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-14. Field Twin. Field Chat now runs on its own twin chat, apart from Cat Command Chat.  
+2026-11-14. App Index. Deploy dates were synced.  
+2026-11-14. Score Hub. Registered MobbyHill on the score hub, shown as flags and a clock time.  
+2026-11-14. Sky Flow. Sky Flow 2.1 added three trucks in Free build.  
+2026-11-14. Delivery Twin. Added Driver Chat, which runs on its own backend and now shares the twin chat with Field Twin.  
+2026-11-14. raineurysm. Added a music machine mode beside simple mode, with troughs, funnels, faucets, sprinklers, dripping vessels, a lane pattern editor, a weather song, thunder, recording, and undo.  
+2026-11-14. MobbyHill. Created MobbyHill, a wireframe off road hill climb game with a driver seat view and phone tilt lean.  
 2026-11-13. Hoofer Sync. New look: every dancer is a stick figure made of light on a blacked out stage, with light trails off the hands and feet.  
-2026-11-13. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-13. City Seek. Added Music mode, chosen from the Mode switch in the menu.  
-2026-11-13. Delivery Twin. Added fog of war spots, then pickups, dropoffs, and delivery lines on the map.  
-2026-11-13. Artifactium. Created Artifactium, a found object archive with a flowchart tree explorer.  
-2026-11-13. Delivery Twin Violet. Created Delivery Twin Violet as a copy of Field Twin Violet for the Delivery Twin family.  
-2026-11-13. raineurysm. Created raineurysm, a rain music toy where rain falls into vessels that play notes.  
-2026-11-12. Parcelsun. Doors are now fixed slot sizes measured off a real bank, on a column of 29 units, and each column in the Layout card is a list of slots you edit.  
-2026-11-12. Field Twin. The locker site section now has an oversize module count, so a bank with two tall doors beside one full height door module is passed to Parcelsun the way it stands.  
-2026-11-12. Smash Bender. Added a Toolbox page that lists every tool, what it does, whether it is ready, and which button uses it.
+2026-11-13. City Seek. Added Music mode, chosen from the Mode switch in the menu.
 
 Updated automatically by the scribe.
