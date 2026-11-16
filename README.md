@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 175 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 176 repos are documented so far.
 
 Games
 
@@ -16,6 +16,7 @@ Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit
 CoffeeKit One. A coffee shop training game with kitchen display orders and cleaning rounds. Live at coffeekit1.vercel.app.  
 Drive-Thru Dental Simulator. A drive-thru dental simulator game played in the browser. Live at 2026-11-05-drive-thru-dental.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
+Fashionocalypse. A strategy game about containing ten fashion brands on a spinning globe.  
 Field Dispatch. A field service dispatch game where crews drive real roads to repair cameras and fill tickets. Live at 2026-11-04-field-dispatch.vercel.app.  
 FLIPCOUNT. Eight counting toys including a flip dot display, an abacus, and number scripts. Live at flipcount-game.vercel.app.  
 FogWarren. A retro desktop fog of war maze game with mines and a hidden picture. Live at fogwarren-vx.vercel.app.  
@@ -203,15 +204,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-16. Pajamastan. Added the Hire Portal to the Links tab as a Pajamastan portal.  
+2026-11-16. Field Twin. Added Tickets.  
+2026-11-16. App Index. Added a Railway tab that lists every Railway project and service with this billing period cost, an end of period estimate, deploy status, and idle flags.  
+2026-11-16. Hire Portal. Fixed the spelling of the company name.  
+2026-11-15. Restaurant Design and Setup Survey. Rebuilt as version 3 in the RTSS style, with a light theme, drop down cards, and Build, Survey, Demo and More tabs.  
+2026-11-15. RTSS. Rebuilt as version 3 with a light theme and a survey that saves one document per site, with a phone copy for offline work.  
 2026-11-15. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-14. Field Twin. Field Chat now runs on its own twin chat, apart from Cat Command Chat.  
-2026-11-14. App Index. Deploy dates were synced.  
-2026-11-14. Score Hub. Registered MobbyHill on the score hub, shown as flags and a clock time.  
-2026-11-14. Sky Flow. Sky Flow 2.1 added three trucks in Free build.  
-2026-11-14. Delivery Twin. Added Driver Chat, which runs on its own backend and now shares the twin chat with Field Twin.  
-2026-11-14. raineurysm. Added a music machine mode beside simple mode, with troughs, funnels, faucets, sprinklers, dripping vessels, a lane pattern editor, a weather song, thunder, recording, and undo.  
-2026-11-14. MobbyHill. Created MobbyHill, a wireframe off road hill climb game with a driver seat view and phone tilt lean.  
-2026-11-13. Hoofer Sync. New look: every dancer is a stick figure made of light on a blacked out stage, with light trails off the hands and feet.  
-2026-11-13. City Seek. Added Music mode, chosen from the Mode switch in the menu.
+2026-11-15. Stackloom. Added the Match line, the candy smashing match three game.  
+2026-11-15. Score Hub. Registered three more MobbyHill modes: Fuel, Climb and Climb Fuel.  
+2026-11-15. Delivery Twin. Added direction chevrons on the delivery lines.
 
 Updated automatically by the scribe.
