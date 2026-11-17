@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 176 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 180 repos are documented so far.
 
 Games
 
@@ -25,6 +25,7 @@ Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and c
 Infinicanvan. An infinite zooming canvas with drawing tools and growing trees. Live at infinicanvan.vercel.app.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 J30P4RDY. A Jeopardy style lyrics quiz where players race to buzz in on song clues. Live at j30p4rdy.vercel.app.  
+lARTte. A latte art simulator with pours, garnishes, blended drinks, and a coffee shop shift game. Live at lartte.vercel.app.  
 Mail-ionaire. A mail room tycoon game cloned from Mill-ionaire, with its own save and score board. Live at mail-ionaire.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 Mill-ionaire. A letter shop tycoon built around a simulated knee mill that grows into a factory floor. Live at mill-ionaire.vercel.app.  
@@ -34,6 +35,7 @@ Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.
 ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
 Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the screen.  
+Pipe Weave. A pipe drawing toy where pipes turn, split, and weave over and under each other. Live at 2026-11-16-pipe-weave.vercel.app.  
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Scorpion Supper. An endless arcade game where a scorpion eats to grow and hides from coyotes. Live at scorpion-supper.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
@@ -52,7 +54,8 @@ Topo Wars. Turn based war game played on real map terrain with computer, friend,
 Tower Builder. Beam building tower game that tests your design against wind and earthquakes. Live at tower-builder-five.vercel.app.  
 Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.  
 Welcome to the Madness. A kitchen rush game where you pull orders before they burn. Live at welcome-to-the-madness.vercel.app.  
-Who Is The Final Victor. A canvas game with a pink accent look. Live at final-vector-six.vercel.app.
+Who Is The Final Victor. A canvas game with a pink accent look. Live at final-vector-six.vercel.app.  
+Zion Wakes. A story and map toy that loads the Agent Test Bed city and lets you move, name, and judge its places. Live at 2026-11-16-orange-zion.vercel.app.
 
 Music and Visualizers
 
@@ -151,6 +154,7 @@ Hire Portal. A practice job application portal that teaches what to share at eac
 Hush. An Android notification blocker that holds alerts and releases them together on a schedule.  
 Ice Files. A novelty agent ID card maker with a photo and a front and back export. Live at 2026-11-09-orange-icefiles.vercel.app.  
 Itchy Troll. An agent that ships one app a day to a game publishing site and keeps a ledger. Live at itchy-troll.vercel.app.  
+Key Decoder. An educational tool that measures a key from a photo and a coin for scale. Live at 2026-11-15-orange-keydecode.vercel.app.  
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
 Lenticular Tilt. A phone toy that blends three photos into a tilting lenticular picture. Live at particular-lenticular.vercel.app.  
 Locker Screen. A parcel locker kiosk screen with code entry, languages, and repair flows. Live at 2026-11-05-locker-screen.vercel.app.  
@@ -204,15 +208,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-17. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-17. Itchy Troll. Updated the MobbyHill pick note.  
+2026-11-17. Score Hub. Registered twelve more MobbyHill leaderboards, one for each game in the Forest, Canyon and Dunes landscapes.  
+2026-11-17. MobbyHill. Buzzards now fly from flag to flag.  
 2026-11-16. Pajamastan. Added the Hire Portal to the Links tab as a Pajamastan portal.  
 2026-11-16. Field Twin. Added Tickets.  
 2026-11-16. App Index. Added a Railway tab that lists every Railway project and service with this billing period cost, an end of period estimate, deploy status, and idle flags.  
+2026-11-16. Hush. Added Clock lock.  
 2026-11-16. Hire Portal. Fixed the spelling of the company name.  
-2026-11-15. Restaurant Design and Setup Survey. Rebuilt as version 3 in the RTSS style, with a light theme, drop down cards, and Build, Survey, Demo and More tabs.  
-2026-11-15. RTSS. Rebuilt as version 3 with a light theme and a survey that saves one document per site, with a phone copy for offline work.  
-2026-11-15. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-15. Stackloom. Added the Match line, the candy smashing match three game.  
-2026-11-15. Score Hub. Registered three more MobbyHill modes: Fuel, Climb and Climb Fuel.  
-2026-11-15. Delivery Twin. Added direction chevrons on the delivery lines.
+2026-11-16. City Seek. Added a polish pass.
 
 Updated automatically by the scribe.
