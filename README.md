@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 180 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 184 repos are documented so far.
 
 Games
 
@@ -63,6 +63,7 @@ Algorithm Albatross. Instrumental skeleton analysis and cover pair matching for 
 Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-eight-xi.vercel.app.  
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
 Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
+Bloxx. A modular stage block configurator joined to the Stompbox band room.  
 BPM Finder. Hold a phone near a speaker and read the tempo of the music in beats per minute. Live at bpm-finder.vercel.app.  
 ChromaHum Tiles. A camera color to sound instrument with tiles, patterns, and an infinite canvas. Live at chromahum-zq.vercel.app.  
 Dial Queue. A drum machine with dial rows, instrument families, presets, and toy sounds. Live at 2026-10-20-orange-dialbeat.vercel.app.  
@@ -141,6 +142,7 @@ Tools
 Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
 App Index. An index page that lists every app with its age, phone tags, and notes. Live at mohavetech-website.vercel.app.  
 Artifactium. A found object archive with a flowchart tree explorer and contributor sign in. Live at artifactium.vercel.app.  
+Campus. A video learning tool where building counts more than watching. Live at campus-ebutuoy.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
 Code Lens. A page that explains functions from GitHub repos in plain English. Live at 2026-11-11-orange-codelens.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
@@ -162,6 +164,7 @@ Mohave Browser. Small Android web browser built on the Gecko engine.
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
 PDF Text Editor. Open a PDF, tap a line of text, and change what it says without leaving your device. Live at pdf-yourself.vercel.app.  
+Repo Cloner. A tool that hunts open source games with sellable licenses and grades them as reskin bases. Live at repo-cloner-khaki.vercel.app.  
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
 Retro Software Catalog. A retro styled catalog page for the developer's apps.  
 Road Layers. A browser tool that stacks cars from several drive clips onto one road. Live at downfree-foundry.vercel.app.  
@@ -187,6 +190,7 @@ Agent Test Bed. A shared city where AI agents take turns building, with a viewer
 Agent Test Bed Sandbox. A sandbox copy of the agent test bed where AI agents build a shared city.  
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
 Blue Agent. The runner and dashboard that schedule AI agents to play the test bed.  
+Campus API. The backend for Campus that stores sources, logged work, and the transcript.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 Conveyor Sim. A conveyor simulation started from a copy of the agent test bed. Live at conveyor-sim.vercel.app.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
@@ -208,15 +212,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-17. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-18. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-18. Score Hub. MobbyHill sign in now runs on Supabase Auth.  
+2026-11-18. MobbyHill. Sign in now works with your own email or an outside sign in provider.  
+2026-11-17. Pajamastan. Added a donate pill to the creator seal that invites people to support the micronation.  
 2026-11-17. Itchy Troll. Updated the MobbyHill pick note.  
-2026-11-17. Score Hub. Registered twelve more MobbyHill leaderboards, one for each game in the Forest, Canyon and Dunes landscapes.  
-2026-11-17. MobbyHill. Buzzards now fly from flag to flag.  
-2026-11-16. Pajamastan. Added the Hire Portal to the Links tab as a Pajamastan portal.  
-2026-11-16. Field Twin. Added Tickets.  
-2026-11-16. App Index. Added a Railway tab that lists every Railway project and service with this billing period cost, an end of period estimate, deploy status, and idle flags.  
-2026-11-16. Hush. Added Clock lock.  
-2026-11-16. Hire Portal. Fixed the spelling of the company name.  
-2026-11-16. City Seek. Added a polish pass.
+2026-11-17. raineurysm. Added seven more puzzle levels, for twelve in all.  
+2026-11-17. Pipe Weave. Joining a pipe now opens the wall of the pipe it joins, and the next pipe after a join waits for you.  
+2026-11-17. Bloxx. Created Bloxx, a modular stage block configurator joined to the Stompbox band room.  
+2026-11-17. Repo Cloner. Created Repo Cloner.  
+2026-11-17. Campus. Created Campus, a video learning tool where building counts more than watching.
 
 Updated automatically by the scribe.
