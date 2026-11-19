@@ -1,19 +1,22 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 184 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 189 repos are documented so far.
 
 Games
 
 A Canticle for Pajamastan. A top down action role playing game set in Pajamastan with a playable slice and a relay. Live at a-canticle-for-pajamastan.vercel.app.  
 Ascend. Endless vertical platformer with moving platforms, powerups, and touch controls for phones. Live at ascend-pearl-ten.vercel.app.  
-Atlas of Tiles. Tile rotating puzzle where closed loops score, with regional tile styles. Live at tile-spinner.vercel.app.  
+Atlas of Tiles. x. Live at tile-spinner.vercel.app.  
 Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic mode. Live at beesim-green.vercel.app.  
+Bee Wars. A territory control game where two bee colonies fight over a meadow. Live at beewars.vercel.app.  
 BIRDIXEL. Bird territory game with free paint and stained glass modes. Live at birdix.vercel.app.  
 CARCHIVE. Browser card duel game with a deck builder and duel records. Live at carchive-nine.vercel.app.  
 Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
+Cipher Wars. A story game about a secret cryptographic war, played from either side. Live at cipher-wars-v3.vercel.app.  
 City Seek. A zoomable generated city where you hunt for hidden items. Live at city-seek.vercel.app.  
 Cockpit Racer. Low poly 3D desert driving game from the cockpit. Live at cockpit-racer.vercel.app.  
 CoffeeKit One. A coffee shop training game with kitchen display orders and cleaning rounds. Live at coffeekit1.vercel.app.  
+DEF CON Trail. A road trip survival game about getting a crew to a hacker conference in Las Vegas. Live at defcon-trail.vercel.app.  
 Drive-Thru Dental Simulator. A drive-thru dental simulator game played in the browser. Live at 2026-11-05-drive-thru-dental.vercel.app.  
 EDMIA. Falling block color match game where every move adds to the music. Live at edmia.vercel.app.  
 Fashionocalypse. A strategy game about containing ten fashion brands on a spinning globe.  
@@ -35,7 +38,7 @@ Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.
 ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
 Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the screen.  
-Pipe Weave. A pipe drawing toy where pipes turn, split, and weave over and under each other. Live at 2026-11-16-pipe-weave.vercel.app.  
+Pipe Weave. x. Live at 2026-11-16-pipe-weave.vercel.app.  
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Scorpion Supper. An endless arcade game where a scorpion eats to grow and hides from coyotes. Live at scorpion-supper.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
@@ -47,13 +50,14 @@ Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. 
 Territory Control. Early first version of a map based territory war game.  
 Text Based Game. A tabletop text game with miniatures where an AI crew takes your orders.  
 The Aliens Win. Arcade shooter where you fly a UFO against waves. Live at aliens-win.vercel.app.  
+Tile-topia. A tile placing map building game with skins, bots, and an auto build mode. Live at tile-topia.vercel.app.  
 Tomatomo. A pocket pet handheld game you raise from an egg. Live at tomatomo.vercel.app.  
 Topdown Pixeltown. Top down pixel town game that renders to a canvas. Live at topdown-pixeltown.vercel.app.  
 Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown Pixeltown.  
 Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
 Tower Builder. Beam building tower game that tests your design against wind and earthquakes. Live at tower-builder-five.vercel.app.  
 Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.  
-Welcome to the Madness. A kitchen rush game where you pull orders before they burn. Live at welcome-to-the-madness.vercel.app.  
+Welcome to the Madness. x. Live at welcome-to-the-madness.vercel.app.  
 Who Is The Final Victor. A canvas game with a pink accent look. Live at final-vector-six.vercel.app.  
 Zion Wakes. A story and map toy that loads the Agent Test Bed city and lets you move, name, and judge its places. Live at 2026-11-16-orange-zion.vercel.app.
 
@@ -62,15 +66,16 @@ Music and Visualizers
 Algorithm Albatross. Instrumental skeleton analysis and cover pair matching for songs.  
 Axiom. A browser synthesizer that plays along with a shared band. Live at axiom-eight-xi.vercel.app.  
 Axiom Synth. A browser synthesizer with several color themes for playing sounds.  
-Bitfield Synth. Pixel field visualizer driven by math expressions, audio, and images. Live at bitfield-synth.vercel.app.  
+Bitfield Synth. x. Live at bitfield-synth.vercel.app.  
 Bloxx. A modular stage block configurator joined to the Stompbox band room.  
 BPM Finder. Hold a phone near a speaker and read the tempo of the music in beats per minute. Live at bpm-finder.vercel.app.  
 ChromaHum Tiles. A camera color to sound instrument with tiles, patterns, and an infinite canvas. Live at chromahum-zq.vercel.app.  
+Circuit Visualizer. A music visualizer that draws a circuit board lighting up to the beat, with other modes. Live at circuit-musicfx.vercel.app.  
 Dial Queue. A drum machine with dial rows, instrument families, presets, and toy sounds. Live at 2026-10-20-orange-dialbeat.vercel.app.  
 Dronesim. Pixel art drone show simulator with a timeline editor and image based formations. Live at dronesim-blue.vercel.app.  
 Ether Wand. A phone instrument where tilting and shaking the phone plays a tone. Live at ether-wand.vercel.app.  
 Fatty Fart Pedal. A silly stomp pedal instrument that plays fart sounds, alone or in a room. Live at fatty-fart-pedal.vercel.app.  
-Hackercons Roulette. Player that serves random short clips from hacker conference talks. Live at hackercons-roulette.vercel.app.  
+Hackercons Roulette. x. Live at hackercons-roulette.vercel.app.  
 Hoofer Sync. A dance floor where every phone in the band room gets a dancer.  
 Laugh Box. A phone laugh track box with keys, a looping crowd pattern, and shared rooms.  
 Looper. A pad looper for recording and layering loops that joins a shared band. Live at looper-sooty.vercel.app.  
@@ -140,7 +145,7 @@ Tools
 
 67 Idea Generator. A sixty second pitch timer that records takes, reads them back in a chosen voice, and exports the good ones. Live at 67-idea-generator.vercel.app.  
 Androids Deploy Builder. Builds the phone terminal command block that deploys a page to Vercel or Railway. Live at androids.vercel.app.  
-App Index. An index page that lists every app with its age, phone tags, and notes. Live at mohavetech-website.vercel.app.  
+App Index. x. Live at mohavetech-website.vercel.app.  
 Artifactium. A found object archive with a flowchart tree explorer and contributor sign in. Live at artifactium.vercel.app.  
 Campus. A video learning tool where building counts more than watching. Live at campus-ebutuoy.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
@@ -194,7 +199,7 @@ Campus API. The backend for Campus that stores sources, logged work, and the tra
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 Conveyor Sim. A conveyor simulation started from a copy of the agent test bed. Live at conveyor-sim.vercel.app.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
-Hackercons Roulette API. Catalog service that serves random playable conference clips to the player.  
+Hackercons Roulette API. x.  
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
 Purple Agent. An AI agent that builds one block of a shared city in the Agent Test Bed.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
@@ -212,15 +217,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-19. App Index. Added a sticky notes view where a mannequin wears a fitted gown made of one note per app.  
+2026-11-19. Tile-topia. Added an Auto build mode that places tiles in spots that avoid gaps.  
+2026-11-18. Hackercons Roulette API. Newest talks now come first.  
+2026-11-18. Hackercons Roulette. Redesigned the player in a comic book look.  
+2026-11-18. Atlas of Tiles. Added Pipes challenge levels, Pipe Rush, and Visualizer modes, and the tradition styles became skins.  
+2026-11-18. Bitfield Synth. A mobile control dock now replaces the hamburger drawer.  
 2026-11-18. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-18. Welcome to the Madness. The shift over screen now shows a top five shifts board.  
 2026-11-18. Score Hub. MobbyHill sign in now runs on Supabase Auth.  
-2026-11-18. MobbyHill. Sign in now works with your own email or an outside sign in provider.  
-2026-11-17. Pajamastan. Added a donate pill to the creator seal that invites people to support the micronation.  
-2026-11-17. Itchy Troll. Updated the MobbyHill pick note.  
-2026-11-17. raineurysm. Added seven more puzzle levels, for twelve in all.  
-2026-11-17. Pipe Weave. Joining a pipe now opens the wall of the pipe it joins, and the next pipe after a join waits for you.  
-2026-11-17. Bloxx. Created Bloxx, a modular stage block configurator joined to the Stompbox band room.  
-2026-11-17. Repo Cloner. Created Repo Cloner.  
-2026-11-17. Campus. Created Campus, a video learning tool where building counts more than watching.
+2026-11-18. MobbyHill. Sign in now works with your own email or an outside sign in provider.
 
 Updated automatically by the scribe.
