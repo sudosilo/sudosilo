@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 189 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 191 repos are documented so far.
 
 Games
 
@@ -28,6 +28,7 @@ Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and c
 Infinicanvan. An infinite zooming canvas with drawing tools and growing trees. Live at infinicanvan.vercel.app.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 J30P4RDY. A Jeopardy style lyrics quiz where players race to buzz in on song clues. Live at j30p4rdy.vercel.app.  
+Just Five More. A work game with seven tasks, excuse memos, and a performance review. Live at 2026-11-19-blue-just-five-more.vercel.app.  
 lARTte. A latte art simulator with pours, garnishes, blended drinks, and a coffee shop shift game. Live at lartte.vercel.app.  
 Mail-ionaire. A mail room tycoon game cloned from Mill-ionaire, with its own save and score board. Live at mail-ionaire.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
@@ -36,6 +37,7 @@ MobbyHill. A wireframe off road hill climb for the phone with tilt steering and 
 NANOVERSE. Cell simulation world that renders to a canvas with audio. Live at nanoverse-psi.vercel.app.  
 Nota City. Shared city builder on a 32 by 32 grid with a backend tick engine.  
 ORDERSIM. Restaurant kitchen rush game with callsigns and a leaderboard. Live at ordersim.vercel.app.  
+Packet Baron. A tapping and idle game about inventing and selling condiment packets.  
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
 Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the screen.  
 Pipe Weave. x. Live at 2026-11-16-pipe-weave.vercel.app.  
@@ -217,15 +219,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-19. App Index. Added a sticky notes view where a mannequin wears a fitted gown made of one note per app.  
-2026-11-19. Tile-topia. Added an Auto build mode that places tiles in spots that avoid gaps.  
-2026-11-18. Hackercons Roulette API. Newest talks now come first.  
-2026-11-18. Hackercons Roulette. Redesigned the player in a comic book look.  
-2026-11-18. Atlas of Tiles. Added Pipes challenge levels, Pipe Rush, and Visualizer modes, and the tradition styles became skins.  
-2026-11-18. Bitfield Synth. A mobile control dock now replaces the hamburger drawer.  
-2026-11-18. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-18. Welcome to the Madness. The shift over screen now shows a top five shifts board.  
-2026-11-18. Score Hub. MobbyHill sign in now runs on Supabase Auth.  
-2026-11-18. MobbyHill. Sign in now works with your own email or an outside sign in provider.
+2026-11-20. Hush. Clock lock no longer posts any pop-up.  
+2026-11-19. App Index. Sticky notes can now be dragged anywhere, then arranged newest first, A to Z, or shuffled, and the layouts are saved.  
+2026-11-19. Repo Find. Added the Teardown tab.  
+2026-11-19. Threat Atlas. Data refresh.  
+2026-11-19. Stackloom. Added the Shooter line, built from Dragon Drop.  
+2026-11-19. Score Hub. Raineurysm Puzzle grew to twenty four levels, so its top believable run score went up to match.  
+2026-11-19. raineurysm. Added twelve more puzzle levels, for twenty four in all, with fixed pieces, lower faucets, and a cup splitter level.  
+2026-11-19. Pipe Weave. Added a full screen button.  
+2026-11-19. Bloxx. Added motorized twist lock pins between blocks with lock confirmation.  
+2026-11-19. Tile-topia. Added a War skin with an army map, trenches, bases, HQs, and marching soldiers.
 
 Updated automatically by the scribe.
