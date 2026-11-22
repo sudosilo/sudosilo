@@ -220,15 +220,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-21. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-22. Agent Test Bed. The agent turn was played and merged into the city.  
+2026-11-21. Field Twin. Added a Charging station place type with its own sign and its own form.  
+2026-11-21. Conveyor Sim. Built a packet factory, then rebuilt the whole site as a visual pipeline builder.  
+2026-11-21. Packet Baron. Tower floors now show stock as stacked pallets, one pallet per million packets, with a partly filled pallet for the remainder and a pallet count.  
 2026-11-20. Stackloom. Added cashing out and high scores.  
 2026-11-20. Itchy Troll. The scout looked over the repos for new candidates.  
 2026-11-20. Hush. Tapping the Clock fixer badge while the fixer is off now opens the Hush app info page first, where Samsung's restricted setting gets unlocked, and the next tap opens the accessibility screen to switch the fixer on.  
-2026-11-20. Packet Baron. Added world news events that can block play, with a popup and a decoy button.  
 2026-11-20. Lane Listener. Created Lane Listener, a drive-thru order listener.  
 2026-11-19. App Index. Sticky notes can now be dragged anywhere, then arranged newest first, A to Z, or shuffled, and the layouts are saved.  
-2026-11-19. Repo Find. Added the Teardown tab.  
-2026-11-19. Threat Atlas. Data refresh.  
-2026-11-19. Score Hub. Raineurysm Puzzle grew to twenty four levels, so its top believable run score went up to match.
+2026-11-19. Repo Find. Added the Teardown tab.
 
 Updated automatically by the scribe.
