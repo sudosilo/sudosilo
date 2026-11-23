@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 192 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 195 repos are documented so far.
 
 Games
 
@@ -127,6 +127,7 @@ Field Twin Glaucous. A phone app that scores road quality from steering wheel vi
 Field Twin Violet. A phone inventory app for parts, vendors, orders, and locations. Live at field-twin-violet.vercel.app.  
 Field Twin Viridian. A field twin app that reads and tracks license plates.  
 GroundCore. Desert planting planner with row spacing, plant lookup, and a map sandbox for laying out rows. Live at groundcore-nine.vercel.app.  
+Hub View. A three dimensional exploded view of cars with part cards, manual diagrams, and a buy sheet. Live at 2026-11-22-orange-hubview.vercel.app.  
 Kitchen Shed Diagram. 3D exploded view of a 14 by 20 kitchen shed build.  
 Tank Pump Drip Demo. A demo of a tank, pump, and drip irrigation cycle.  
 Torque Converter. Converts torque between newton meters, foot pounds, and inch pounds. Live at torque-converter.vercel.app.  
@@ -158,6 +159,7 @@ Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sy
 Decimal Day Clock. A decimal day clock with a day count since 1970 and a normal clock with time zones. Live at 2026-11-01-orange-decimalday.vercel.app.  
 Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
+Explode. A photo toy that cuts objects out of a picture and spreads the pieces apart. Live at 2026-11-23-orange-explode.vercel.app.  
 Fold pattern generator. Origami fold pattern generator for printing.  
 Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
 Hire Portal. A practice job application portal that teaches what to share at each step.  
@@ -172,6 +174,7 @@ Mohave Browser. Small Android web browser built on the Gecko engine.
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
 PDF Text Editor. Open a PDF, tap a line of text, and change what it says without leaving your device. Live at pdf-yourself.vercel.app.  
+Pipeline Builder. A stack planning tool with a builder, randomizer, diagram, and templates. Live at pipeline-builder-azure-kappa.vercel.app.  
 Repo Cloner. A tool that hunts open source games with sellable licenses and grades them as reskin bases. Live at repo-cloner-khaki.vercel.app.  
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
 Retro Software Catalog. A retro styled catalog page for the developer's apps.  
@@ -220,15 +223,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-23. Threat Atlas. Story mode.  
+2026-11-23. ChromaHum Tiles. Sound and camera now start more reliably.  
+2026-11-23. Campus. Campus version 3.  
+2026-11-23. Campus API. Search now returns lessons only, using education categories, a three minute minimum, and relevance order.  
+2026-11-23. Hub View. Added a car picker menu with makes and nested models and a paint picker for outside body panels.  
+2026-11-23. Explode. Created Explode, a photo app.  
+2026-11-22. Repo Find. Added Conveyor Sim links.  
 2026-11-22. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-21. Field Twin. Added a Charging station place type with its own sign and its own form.  
-2026-11-21. Conveyor Sim. Built a packet factory, then rebuilt the whole site as a visual pipeline builder.  
-2026-11-21. Packet Baron. Tower floors now show stock as stacked pallets, one pallet per million packets, with a partly filled pallet for the remainder and a pallet count.  
-2026-11-20. Stackloom. Added cashing out and high scores.  
-2026-11-20. Itchy Troll. The scout looked over the repos for new candidates.  
-2026-11-20. Hush. Tapping the Clock fixer badge while the fixer is off now opens the Hush app info page first, where Samsung's restricted setting gets unlocked, and the next tap opens the accessibility screen to switch the fixer on.  
-2026-11-20. Lane Listener. Created Lane Listener, a drive-thru order listener.  
-2026-11-19. App Index. Sticky notes can now be dragged anywhere, then arranged newest first, A to Z, or shuffled, and the layouts are saved.  
-2026-11-19. Repo Find. Added the Teardown tab.
+2026-11-22. Itchy Troll. The scout looked over the repos for new candidates.  
+2026-11-22. Road Layers. The Composite length is now a picker from 6 seconds up to 5 minutes, or as long as the clips allow, with 30 seconds as the default instead of 6.
 
 Updated automatically by the scribe.
