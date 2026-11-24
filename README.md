@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 195 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 199 repos are documented so far.
 
 Games
 
@@ -48,6 +48,7 @@ Sky Flow. A tower crane game where you stack crates before time runs out. Live a
 SpaceOut. Paddle and ball brick breaker with waves and touch controls. Live at spaceout-mu.vercel.app.  
 Spy Hunt. A phone map game where red and blue spies hunt each other. Live at spyhunt.vercel.app.  
 Stackloom. A studio game with orders, terminals, agents, developers, and offices. Live at stackloom-meta.vercel.app.  
+Starwake. A star chart game where a grey Bloom eats the map and you race it. Live at starwake-game.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
 Territory Control. Early first version of a map based territory war game.  
 Text Based Game. A tabletop text game with miniatures where an AI crew takes your orders.  
@@ -159,7 +160,9 @@ Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sy
 Decimal Day Clock. A decimal day clock with a day count since 1970 and a normal clock with time zones. Live at 2026-11-01-orange-decimalday.vercel.app.  
 Diamond Driller. Turns a picture into a numbered color-by-number drill pattern with printable pages. Live at diamond-driller.vercel.app.  
 Engine Companion. Phone friendly status and command page for a trading engine. Live at engine-companion.vercel.app.  
+Estate Dossier. A dossier app that maps where personal information is exposed and tracks the cleanup. Live at 2026-11-24-blue-estate-dossier.vercel.app.  
 Explode. A photo toy that cuts objects out of a picture and spreads the pieces apart. Live at 2026-11-23-orange-explode.vercel.app.  
+FileCensus. An Android app that inventories files, finds duplicates, and visualizes the catalog.  
 Fold pattern generator. Origami fold pattern generator for printing.  
 Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
 Hire Portal. A practice job application portal that teaches what to share at each step.  
@@ -206,6 +209,7 @@ Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, a
 Conveyor Sim. A conveyor simulation started from a copy of the agent test bed. Live at conveyor-sim.vercel.app.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
 Hackercons Roulette API. x.  
+Pajamastan Card Orders. A backend that stores card images, opens a checkout, and lists orders for the owner.  
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
 Purple Agent. An AI agent that builds one block of a shared city in the Agent Test Bed.  
 QSR Tracker Backend. Data relay for the restaurant industry tracker: filings, news, quotes, futures, and engine routes.  
@@ -223,15 +227,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
+2026-11-24. Agent Test Bed. The agent and grok turns for the day were played and merged into the city.  
+2026-11-24. Strudel Samples. Added a pad board page that loads every clip from the map.  
+2026-11-24. Estate Dossier. Created Estate Dossier.  
+2026-11-24. Starwake. Added a visual pass with nebulae, a living Bloom edge, star tints and halos, a ringed planet, engine trails, shot glow, and shockwaves.  
+2026-11-24. FileCensus. Created FileCensus, an Android app with a file inventory, file details, notes on AI made files, a timeline, and tags.  
 2026-11-23. Threat Atlas. Story mode.  
 2026-11-23. ChromaHum Tiles. Sound and camera now start more reliably.  
-2026-11-23. Campus. Campus version 3.  
-2026-11-23. Campus API. Search now returns lessons only, using education categories, a three minute minimum, and relevance order.  
-2026-11-23. Hub View. Added a car picker menu with makes and nested models and a paint picker for outside body panels.  
-2026-11-23. Explode. Created Explode, a photo app.  
-2026-11-22. Repo Find. Added Conveyor Sim links.  
-2026-11-22. Agent Test Bed. The agent turn was played and merged into the city.  
-2026-11-22. Itchy Troll. The scout looked over the repos for new candidates.  
-2026-11-22. Road Layers. The Composite length is now a picker from 6 seconds up to 5 minutes, or as long as the clips allow, with 30 seconds as the default instead of 6.
+2026-11-23. Field Twin Viridian. Added a sideways layout with the camera on the left.  
+2026-11-23. Conveyor Sim. Every label now leads with what the machine is in software, like Web server, Database or Cron job, with the factory picture second.  
+2026-11-23. PDF Text Editor. Added signatures and initials.
 
 Updated automatically by the scribe.
