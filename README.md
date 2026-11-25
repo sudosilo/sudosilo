@@ -1,11 +1,11 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 199 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 203 repos are documented so far.
 
 Games
 
 A Canticle for Pajamastan. A top down action role playing game set in Pajamastan with a playable slice and a relay. Live at a-canticle-for-pajamastan.vercel.app.  
-Ascend. Endless vertical platformer with moving platforms, powerups, and touch controls for phones. Live at ascend-pearl-ten.vercel.app.  
+Ascend. A vertical climbing game with many modes and global leaderboards. Live at ascend-pearl-ten.vercel.app.  
 Atlas of Tiles. x. Live at tile-spinner.vercel.app.  
 Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic mode. Live at beesim-green.vercel.app.  
 Bee Wars. A territory control game where two bee colonies fight over a meadow. Live at beewars.vercel.app.  
@@ -154,6 +154,7 @@ App Index. x. Live at mohavetech-website.vercel.app.
 Artifactium. A found object archive with a flowchart tree explorer and contributor sign in. Live at artifactium.vercel.app.  
 Campus. A video learning tool where building counts more than watching. Live at campus-ebutuoy.vercel.app.  
 Cat Command Chat. Private group chat app with reactions, voice notes, chess, GIFs, and notifications. Live at kat-chat-flame.vercel.app.  
+ClipRig. An Android app that records the screen, finds highlights, and edits clips.  
 Code Lens. A page that explains functions from GitHub repos in plain English. Live at 2026-11-11-orange-codelens.vercel.app.  
 Contracts. Draft a contract, sign it with a finger or mouse, and record its fingerprint on Polygon. Live at mohavetech-contracts.vercel.app.  
 Daily Outline. Daily goal tracker with a calendar, exports, and email sign in sync. Live at daily-outline.vercel.app.  
@@ -165,6 +166,7 @@ Explode. A photo toy that cuts objects out of a picture and spreads the pieces a
 FileCensus. An Android app that inventories files, finds duplicates, and visualizes the catalog.  
 Fold pattern generator. Origami fold pattern generator for printing.  
 Free Links. A plain index page of free, useful links. Live at free-as-in-links.vercel.app.  
+Greenscreen. A remote screen page that shows the phone screen and taps where you click.  
 Hire Portal. A practice job application portal that teaches what to share at each step.  
 Hush. An Android notification blocker that holds alerts and releases them together on a schedule.  
 Ice Files. A novelty agent ID card maker with a photo and a front and back export. Live at 2026-11-09-orange-icefiles.vercel.app.  
@@ -173,6 +175,7 @@ Key Decoder. An educational tool that measures a key from a photo and a coin for
 KVS Roulette. Random episode and clip player with season and shuffle modes. Live at kvs-sigma.vercel.app.  
 Lenticular Tilt. A phone toy that blends three photos into a tilting lenticular picture. Live at particular-lenticular.vercel.app.  
 Locker Screen. A parcel locker kiosk screen with code entry, languages, and repair flows. Live at 2026-11-05-locker-screen.vercel.app.  
+Manual Rebuild. Turns manual figures into traced parts with an exploded 3D view.  
 Mohave Browser. Small Android web browser built on the Gecko engine.  
 Note Note Note. Turns a picture into colored squares you group into notes and connect with lines. Live at note-note-note.vercel.app.  
 Paycheck Hub. Splits a paycheck into bills and spending buckets with fixed rules. Live at shitty-ass-finance.vercel.app.  
@@ -208,6 +211,7 @@ Campus API. The backend for Campus that stores sources, logged work, and the tra
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 Conveyor Sim. A conveyor simulation started from a copy of the agent test bed. Live at conveyor-sim.vercel.app.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
+Fleet Index. A server where FileCensus phones share inventories and find which phone holds a file.  
 Hackercons Roulette API. x.  
 Pajamastan Card Orders. A backend that stores card images, opens a checkout, and lists orders for the owner.  
 Parkingten. A parking management app with spot, check in, and operator pages. Live at parkingten.vercel.app.  
@@ -227,15 +231,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-24. Agent Test Bed. The agent and grok turns for the day were played and merged into the city.  
-2026-11-24. Strudel Samples. Added a pad board page that loads every clip from the map.  
-2026-11-24. Estate Dossier. Created Estate Dossier.  
-2026-11-24. Starwake. Added a visual pass with nebulae, a living Bloom edge, star tints and halos, a ringed planet, engine trails, shot glow, and shockwaves.  
-2026-11-24. FileCensus. Created FileCensus, an Android app with a file inventory, file details, notes on AI made files, a timeline, and tags.  
-2026-11-23. Threat Atlas. Story mode.  
-2026-11-23. ChromaHum Tiles. Sound and camera now start more reliably.  
-2026-11-23. Field Twin Viridian. Added a sideways layout with the camera on the left.  
-2026-11-23. Conveyor Sim. Every label now leads with what the machine is in software, like Web server, Database or Cron job, with the factory picture second.  
-2026-11-23. PDF Text Editor. Added signatures and initials.
+2026-11-25. ClipRig. Created ClipRig, an Android phone app with a screen recorder, a highlight finder, a clip editor, a library, a games list, settings, and an updater.  
+2026-11-25. Manual Rebuild. Created Manual Rebuild, a tool that turns manual figures into parts.  
+2026-11-24. Spectral Engine. Added a MIC button that feeds any visualizer from the microphone.  
+2026-11-24. Data Center OSINT. The backend now runs inside the same site, so the map loads every layer without being blocked by the browser.  
+2026-11-24. Topo Wars Server. The root address now shows a status page with a link to the game instead of a not found page.  
+2026-11-24. Pajamastan Warrants. The docket now loads straight from the courts search through a built in endpoint, so the page works on Vercel with no separate server.  
+2026-11-24. Signal Snapshot Backend. The root address now answers with the service name and its routes instead of a not found page.  
+2026-11-24. Signal Snapshot. The panel now talks to the live snapshot engine, so it loads instead of being blocked.  
+2026-11-24. Ascend. Added a global leaderboard that shows over the game, backed by a new leaderboard service.  
+2026-11-24. Agent Test Bed. The agent and grok turns for the day were played and merged into the city.
 
 Updated automatically by the scribe.
