@@ -1,6 +1,6 @@
 sudosilo
 
-This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 203 repos are documented so far.
+This account holds a large set of small web apps, games, tools, and backends. Every live app is loaded and clicked through every morning by Control Troll, an automated test system, and every update gets a changelog entry and a release. 215 repos are documented so far.
 
 Games
 
@@ -9,8 +9,10 @@ Ascend. A vertical climbing game with many modes and global leaderboards. Live a
 Atlas of Tiles. x. Live at tile-spinner.vercel.app.  
 Bee Sim. Browser bee strategy game with generated terrain, zones, and a mosaic mode. Live at beesim-green.vercel.app.  
 Bee Wars. A territory control game where two bee colonies fight over a meadow. Live at beewars.vercel.app.  
+Bingo. A shared bingo game page with a rotating caller. Live at 2026-11-26-orange-bingo.vercel.app.  
 BIRDIXEL. Bird territory game with free paint and stained glass modes. Live at birdix.vercel.app.  
 CARCHIVE. Browser card duel game with a deck builder and duel records. Live at carchive-nine.vercel.app.  
+Centipede Text Edition. A centipede arcade shooter drawn entirely in letters. Live at 2026-11-26-orange-centipede.vercel.app.  
 Chicken Farm. Pixel art chicken farm builder and simulator. Live at pixelcoop-farm.vercel.app.  
 Cipher Wars. A story game about a secret cryptographic war, played from either side. Live at cipher-wars-v3.vercel.app.  
 City Seek. A zoomable generated city where you hunt for hidden items. Live at city-seek.vercel.app.  
@@ -24,12 +26,15 @@ Field Dispatch. A field service dispatch game where crews drive real roads to re
 FLIPCOUNT. Eight counting toys including a flip dot display, an abacus, and number scripts. Live at flipcount-game.vercel.app.  
 FogWarren. A retro desktop fog of war maze game with mines and a hidden picture. Live at fogwarren-vx.vercel.app.  
 Forkmill. A voice text adventure mill that uses an AI engine.  
+Ghost Wing. Repo named Ghost Wing whose page is currently a tile placing game.  
 Gladhand Dockyard. A truck and trailer backing sim set in a busy dock yard and city.  
+Hopper. An endless side scroller with kinetic obstacles, zones, and combos. Live at 2026-11-25-green-hopper.vercel.app.  
 Infinicanvan. An infinite zooming canvas with drawing tools and growing trees. Live at infinicanvan.vercel.app.  
 Inkrunner. A comic ink driving sim with tricks, laps, and free driving.  
 J30P4RDY. A Jeopardy style lyrics quiz where players race to buzz in on song clues. Live at j30p4rdy.vercel.app.  
 Just Five More. A work game with seven tasks, excuse memos, and a performance review. Live at 2026-11-19-blue-just-five-more.vercel.app.  
 lARTte. A latte art simulator with pours, garnishes, blended drinks, and a coffee shop shift game. Live at lartte.vercel.app.  
+Lob Hill. Wireframe tank artillery from a dug in turret, with duel and defense modes. Live at 2026-11-25-purple-lobhill.vercel.app.  
 Mail-ionaire. A mail room tycoon game cloned from Mill-ionaire, with its own save and score board. Live at mail-ionaire.vercel.app.  
 Mary Jane-Man. Small arcade style browser game with a start screen and try again.  
 Mill-ionaire. A letter shop tycoon built around a simulated knee mill that grows into a factory floor. Live at mill-ionaire.vercel.app.  
@@ -41,6 +46,8 @@ Packet Baron. A tapping and idle game about inventing and selling condiment pack
 Pancake Orange. Tap pancakes before they burn in a growing grill game. Live at pancake-orange.vercel.app.  
 Percentage Pop-up Typing Game. A typing game where pop-ups keep covering the screen.  
 Pipe Weave. x. Live at 2026-11-16-pipe-weave.vercel.app.  
+Pixel Casino. Pixel style video blackjack and Texas hold em played at shared tables. Live at 2026-11-26-orange-casino.vercel.app/blackjack.html.  
+Polygon Starfighter. A wireframe space shooter with five ships, many modes, story missions, and online scores.  
 Rogue Rail. Drum and bass corridor rail shooter with music built in. Live at rogue-rail.vercel.app.  
 Scorpion Supper. An endless arcade game where a scorpion eats to grow and hides from coyotes. Live at scorpion-supper.vercel.app.  
 Skwiggle. Never ending line drawing game with mint support, later replaced by a Vercel host stumbler. Live at skwiggle.vercel.app.  
@@ -50,6 +57,7 @@ Spy Hunt. A phone map game where red and blue spies hunt each other. Live at spy
 Stackloom. A studio game with orders, terminals, agents, developers, and offices. Live at stackloom-meta.vercel.app.  
 Starwake. A star chart game where a grey Bloom eats the map and you race it. Live at starwake-game.vercel.app.  
 Tanks and Zombies. Tank versus zombie horde wave shooter with unlockable skins. Live at tanksandzombies.vercel.app.  
+Ten Turn Machine. A Rube Goldberg style puzzle where you build a ball machine in ten turns. Live at 2026-11-25-ten-turn-machine.vercel.app.  
 Territory Control. Early first version of a map based territory war game.  
 Text Based Game. A tabletop text game with miniatures where an AI crew takes your orders.  
 The Aliens Win. Arcade shooter where you fly a UFO against waves. Live at aliens-win.vercel.app.  
@@ -60,6 +68,7 @@ Topdown Pixeltowns. Top down pixel town game, the single file version of Topdown
 Topo Wars. Turn based war game played on real map terrain with computer, friend, and zombie modes. Live at topo-wars.vercel.app.  
 Tower Builder. Beam building tower game that tests your design against wind and earthquakes. Live at tower-builder-five.vercel.app.  
 Tower Builder 2. Second version of the tower builder game, with an info button explaining the rules.  
+Turret Sight. A low poly tank artillery game aimed from the driver seat. Live at turret-sight.vercel.app.  
 Welcome to the Madness. x. Live at welcome-to-the-madness.vercel.app.  
 Who Is The Final Victor. A canvas game with a pink accent look. Live at final-vector-six.vercel.app.  
 Zion Wakes. A story and map toy that loads the Agent Test Bed city and lets you move, name, and judge its places. Live at 2026-11-16-orange-zion.vercel.app.
@@ -185,6 +194,7 @@ Repo Cloner. A tool that hunts open source games with sellable licenses and grad
 Repo Find. Search and watch tool for code repos, archives, and sites. Live at repofind-delta.vercel.app.  
 Retro Software Catalog. A retro styled catalog page for the developer's apps.  
 Road Layers. A browser tool that stacks cars from several drive clips onto one road. Live at downfree-foundry.vercel.app.  
+Rocketbench. A rocket flight simulator where you stack parts, stage, and fly missions.  
 Rosetta Pone. A cuneiform to English translator with a sign keyboard. Live at rosetta-pone.vercel.app.  
 SecureOps. Private operations app with a login, encrypted storage, and a locked down page. Live at secureops-pi.vercel.app.  
 Signal Snapshot. Panel that shows trading signals checked by the signal snapshot backend. Live at virality-snapshot.vercel.app.  
@@ -206,8 +216,10 @@ Agent Orange. An AI agent that builds the north and east side of a shared line d
 Agent Test Bed. A shared city where AI agents take turns building, with a viewer and a web API. Live at 2026-10-18-orange-testbed.vercel.app.  
 Agent Test Bed Sandbox. A sandbox copy of the agent test bed where AI agents build a shared city.  
 Arcade Backend. Score server for the arcade games, with locks, cooldowns, and on chain writes.  
+Bingo Server. Server that runs shared bingo games.  
 Blue Agent. The runner and dashboard that schedule AI agents to play the test bed.  
 Campus API. The backend for Campus that stores sources, logged work, and the transcript.  
+Casino Server. Server for shared blackjack and Texas hold em tables.  
 Contracts API. Backend for the contract app: drafts, PIN unlock, e-signatures, and Polygon notarization.  
 Conveyor Sim. A conveyor simulation started from a copy of the agent test bed. Live at conveyor-sim.vercel.app.  
 ebutuoy backend. Backend service for the ebutuoy video discovery app.  
@@ -231,15 +243,15 @@ Topo Wars Server. The battle server that keeps Topo Wars friend games in sync. L
 
 Recent changes
 
-2026-11-25. ClipRig. Created ClipRig, an Android phone app with a screen recorder, a highlight finder, a clip editor, a library, a games list, settings, and an updater.  
-2026-11-25. Manual Rebuild. Created Manual Rebuild, a tool that turns manual figures into parts.  
-2026-11-24. Spectral Engine. Added a MIC button that feeds any visualizer from the microphone.  
-2026-11-24. Data Center OSINT. The backend now runs inside the same site, so the map loads every layer without being blocked by the browser.  
-2026-11-24. Topo Wars Server. The root address now shows a status page with a link to the game instead of a not found page.  
-2026-11-24. Pajamastan Warrants. The docket now loads straight from the courts search through a built in endpoint, so the page works on Vercel with no separate server.  
-2026-11-24. Signal Snapshot Backend. The root address now answers with the service name and its routes instead of a not found page.  
-2026-11-24. Signal Snapshot. The panel now talks to the live snapshot engine, so it loads instead of being blocked.  
-2026-11-24. Ascend. Added a global leaderboard that shows over the game, backed by a new leaderboard service.  
-2026-11-24. Agent Test Bed. The agent and grok turns for the day were played and merged into the city.
+2026-11-26. Turret Sight. Created Turret Sight, a low poly tank artillery game aimed from the turret seat.  
+2026-11-26. Lob Hill. Created Lob Hill with hatch aiming, a map view, a computer opponent, and pass and play.  
+2026-11-26. Hopper. Flight rings, updrafts, and islands are twice as high.  
+2026-11-26. Polygon Starfighter. Added a Story mode campaign with briefings and ship unlocks.  
+2026-11-26. Bingo Server. Created the bingo server, which deals cards, tracks called numbers, and checks claims.  
+2026-11-26. Bingo. Created the bingo game page with joining, a card, calling the next number, claiming bingo, and starting a new game.  
+2026-11-26. Casino Server. Created the casino server with a shared shoe blackjack table, then added a Texas hold em table.  
+2026-11-26. Pixel Casino. Created pixel video blackjack and pixel Texas hold em pages that play at shared tables.  
+2026-11-26. Ghost Wing. Created Ghost Wing v1 as a single page tile placing game.  
+2026-11-26. Centipede Text Edition. Created Centipede Text Edition, then added a page description and favicon.
 
 Updated automatically by the scribe.
